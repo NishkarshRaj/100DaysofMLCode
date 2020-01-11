@@ -19,6 +19,12 @@
 Data is invaluable. Analyzing patterns in data and maximizing value using Big Data tools is the need of the future.
 Every day, every human generates 1.7 MB of data on average every second. This amount of data can only be managed by machines but the patterns to analyze them come from human empiricism. Enter: Machine Learning.
 
+## What is Machine Learning?
 
+Machine learning gives computers the ability to learn without being explicitly programmed. 
+
+The idea came from work in artificial intelligence. Machine learning explores the study and construction of algorithms which can learn and make predictions on data. Such algorithms follow programmed instructions, but can also make predictions or decisions based on data. They build a model from sample inputs.
+
+Machine learning is done where designing and programming explicit algorithms cannot be done.
 
 
