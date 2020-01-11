@@ -27,4 +27,12 @@ The idea came from work in artificial intelligence. Machine learning explores th
 
 Machine learning is done where designing and programming explicit algorithms cannot be done.
 
+## Installation of Anaconda Python
+
+1. Download Anaconda Python for Python 3.7 from this [link](https://www.anaconda.com/distribution/)
+2. Install Anaconda by executing the downloaded file.
+3. Open **Anaconda Navigator** on the machine
+4. Open Spyder IDE for Python.
+5. Create HelloWorld code and execute it to check successful installation.
+
 
