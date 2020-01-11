@@ -35,4 +35,9 @@ Machine learning is done where designing and programming explicit algorithms can
 4. Open Spyder IDE for Python.
 5. Create HelloWorld code and execute it to check successful installation.
 
+## Installation of R Studio and R programming Language
 
+1. Go to this [link](https://cran.r-project.org/) to download and install R Programming language. 
+2. Download R Studio IDE from this [link](https://rstudio.com/products/rstudio/download/#download).
+* RStudio automatically configures R programming language already installed on the machine.
+3. Open RStudio and enter Hello World code to check successful installation.
