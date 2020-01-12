@@ -55,3 +55,14 @@ variable_name = dataset.iloc[x:y, a:b].values
 ```
 
 Here, first input x:y is for rows and second input a:b is for columns where y and b are exclusive.
+
+## 2. Importing Data sets in R Programming
+
+1. Go to package explorer -> browse data set location -> More -> set as working directory
+2. Write a code
+
+```R
+variablename = read.csv('filename.csv')
+```
+
+**Note: In R programming, data sets are index from 1 and not 0**
