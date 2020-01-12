@@ -30,3 +30,7 @@ Three essential libraries:
 ```python
 import libary as alias;
 ```
+
+## 2. Importing Libraries in R
+
+Can be imported via GUI package explorer in RStudio. Generally all basic libraries we need are automatically imported.
