@@ -34,3 +34,24 @@ import libary as alias;
 ## 2. Importing Libraries in R
 
 Can be imported via GUI package explorer in RStudio. Generally all basic libraries we need are automatically imported.
+
+## Importing Datasets
+
+## 1. Importing Data sets in Python using Pandas library
+
+```python
+dataset = pd.read_csv('filename.csv') #pd is the alias set for pandas libarary
+```
+
+**Note: For imported CSV Files**
+1. They can be accessed directly by Spyder IDE using the **variable explorer**
+2. Python assigns **index** or row number to each row. Index starts from 0
+3. Null values are defined by **NaN** keyword
+4. By default, numbers are in scientific notation (%0.3g) but can be changed to float (%0.f).
+
+**Creating Matrix of Independent variables and dependent variables**
+```python
+variable_name = dataset.iloc[x:y, a:b].values
+```
+
+Here, first input x:y is for rows and second input a:b is for columns where y and b are exclusive.
