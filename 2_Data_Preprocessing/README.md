@@ -66,3 +66,16 @@ variablename = read.csv('filename.csv')
 ```
 
 **Note: In R programming, data sets are index from 1 and not 0**
+
+## Handling Veracity in Data Sets
+
+The biggest issues in Data sets for machine learning algorithms is that they may have **incompleteness**, many cells of data might be missing, left out, unknown etc.
+This makes it difficult to program because it decreases the **accuracy** of our algorithms.
+
+**Note: We cannot delete the entire tuple of data to remove inconsistency because the data might be valuable.**
+Here, we assume that the missing data is only of numeric form (float or integer) and we replace all missing values of the **column/variable** with the mean of the values of column.
+
+## 1. Missing Data Management in Python
+
+
+
