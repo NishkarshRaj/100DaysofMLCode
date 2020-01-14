@@ -93,5 +93,14 @@ X[a:b, x:y] = imputer.transform(X[a:b, x:y])
 **Remember: b and y are exclusive**
 * Line 4: Transform the Data matrix and store it in the data matrix.
 
+## 2. Missing Data Management in R
 
+```R
+dataset$column = ifelse(is.na(dataset$column),
+                     ave(dataset$column, FUN = function(x) mean(x, na.rm = TRUE)),
+                     dataset$column)
+```
 
+* Logic: Scan entire row, if the data is missing, replace with average else replace with old content.
+* To access all element column wise: PointerToDataSet$column
+* ifelse: Three parameters -> Condition, If True, If false
