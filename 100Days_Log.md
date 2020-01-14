@@ -10,3 +10,9 @@
 * Basics of Data pre processing
 * Importing libraries in Python
 * Importing Data Sets in R and Python
+
+## Day 3
+* Data Pre-processing: Handling missing Data in Python and R
+
+## Day 4
+* Data Pre-processing: Handling categorical data in Python and R
