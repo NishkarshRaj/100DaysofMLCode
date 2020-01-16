@@ -15,4 +15,12 @@
 * Data Pre-processing: Handling missing Data in Python and R
 
 ## Day 4
-* Data Pre-processing: Handling categorical data in Python and R
+* Data Pre-processing: Encoding categorical data in Python and R
+
+## Day 5
+* Write up for entire Data-preprocessing till now
+
+## Day 6
+* Splitting Data set into train data and test data
+* Feature Scaling
+
