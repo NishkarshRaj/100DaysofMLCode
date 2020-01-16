@@ -113,4 +113,27 @@ For example: Variable taking values in form of only Yes/No.
 For sake of ease in programming, we want to use equations in our algorithm in only Numeric form. 
 So, there is a need to encode categorical data into numerical form.
 
+**Problem** There is problem for encoding strings into number for **Independent** variables.
+On encoding, the first value type is assigned 0, next is assigned as 1 and so on but the machine on execution might think that these data sets are related and 1>0 and so on.
+
+This problem is solved by using the concept of **Dummy variables** after encoding has been done.
+
+Suppose we choose a variable **purchased** with values **Yes/No** where Yes is encoded as 1 and No is encoded as 0
+Then, purchased variable is broken into two variables Yes and No which contain values that are not related to each other.
+
+If the values is Yes, 1 is assigned in Yes column and 0 is assigned in No and vice-versa.
+
 ## 1. Encoding Categorical Data in Python
+
+```python
+# Encode 1 variable at a time
+# Encoding independent variable -> Encode then convert to Dummy variable
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+labelencoder_X = LabelEncoder()
+X[:, 0] = labelencoder_X.fit_transform(X[:, 0]) # All rows and column number 0
+onehotencoder = OneHotEncoder(categorical_features = [0])
+X = onehotencoder.fit_transform(X).toarray()
+# Encode dependent variable -> only encode
+labelencoder_y = LabelEncoder()
+y = labelencoder_y.fit_transform(y)
+```
