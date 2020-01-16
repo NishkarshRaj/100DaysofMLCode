@@ -137,3 +137,14 @@ X = onehotencoder.fit_transform(X).toarray()
 labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
 ```
+
+## 2. Encoding Categorical Data in R Programming
+
+Here, we use Factor function which automatically creates different factors for each value type in independent categorical variables thus there is no need to create dummy variables using OneHotEncoder.
+
+```R
+# Encoding categorical data
+dataset$columnname = factor(dataset$columnname,
+                         levels = c('Value 1', 'Value 2', 'Value 3'),
+                         labels = c(1, 2, 3)) # encoded values can be anything
+```
