@@ -148,3 +148,9 @@ dataset$columnname = factor(dataset$columnname,
                          levels = c('Value 1', 'Value 2', 'Value 3'),
                          labels = c(1, 2, 3)) # encoded values can be anything
 ```
+
+## Splitting the Data Set into Train Data and Test Data
+
+**Analogy:** A student learns about some subject and gets a training in it (Train Data) and gives an examination to check his understanding in it (Test data).
+**Machine Learning:** A machine learns about a certain domain and gets trained using the test data and its **accuracy** and **performance** (speed) are tested on a similar yet difference test data set.
+A good machine learning algorithm in one that performs similarly for both test and train data sets.
