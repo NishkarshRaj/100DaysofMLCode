@@ -104,3 +104,13 @@ dataset$column = ifelse(is.na(dataset$column),
 * Logic: Scan entire row, if the data is missing, replace with average else replace with old content.
 * To access all element column wise: PointerToDataSet$column
 * ifelse: Three parameters -> Condition, If True, If false
+
+## Encoding Categorical Data
+
+Categorical variables are those which take only particular set of values as input.
+For example: Variable taking values in form of only Yes/No.
+
+For sake of ease in programming, we want to use equations in our algorithm in only Numeric form. 
+So, there is a need to encode categorical data into numerical form.
+
+## 1. Encoding Categorical Data in Python
