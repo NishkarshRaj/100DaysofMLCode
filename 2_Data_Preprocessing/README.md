@@ -223,3 +223,12 @@ X_train = sc_X.fit_transform(X_train) # Assign X_train by fitting and transformi
 X_test = sc_X.transform(X_test) # No need to fit because test data already takes fitted train data 
 ```
 
+**Important Question:** Do we need to feature scale Dummy variables in Python?
+
+## 2. Feature Scaling in R
+
+```R
+training_set = scale(training_set)
+test_set = scale(test_set)
+```
+
