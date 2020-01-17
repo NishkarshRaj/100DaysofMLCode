@@ -24,3 +24,7 @@
 * Splitting Data set into train data and test data
 * Feature Scaling
 
+## Day 7
+* Writeups for Splitting Data Sets and Feature Scaling
+* Wrapping up Data-Preprocessing part
+
