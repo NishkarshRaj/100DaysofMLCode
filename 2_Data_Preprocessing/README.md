@@ -232,3 +232,11 @@ training_set = scale(training_set)
 test_set = scale(test_set)
 ```
 
+## Conclusion
+
+Following are mandatory steps for Data Pre-processing
+
+1. Importing Libraries
+2. Importing Data Set
+3. Splitting Data sets into Train and Test Data
+
