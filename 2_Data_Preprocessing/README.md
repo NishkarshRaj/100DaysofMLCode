@@ -208,3 +208,7 @@ If two variables are having huge difference in numbers, Eg. X is defined by net 
 
 **Solution:** Standardize all the numeric data set values in between [0-1]
 
+There are two ways to standardize the numeric variables:
+
+![Feature Scaling](img/feature_scaling.png)
+
