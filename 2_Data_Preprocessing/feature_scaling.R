@@ -12,5 +12,5 @@ training_set = subset(dataset, split == TRUE)
 test_set = subset(dataset, split == FALSE)
 
 # Feature Scaling
-# training_set = scale(training_set)
-# test_set = scale(test_set)
+training_set[a:b,x:y] = scale(training_set[a:b,x:y])
+test_set[a:b,x:y] = scale(test_set[a:b,x:y])
