@@ -154,3 +154,21 @@ dataset$columnname = factor(dataset$columnname,
 **Analogy:** A student learns about some subject and gets a training in it (Train Data) and gives an examination to check his understanding in it (Test data).
 **Machine Learning:** A machine learns about a certain domain and gets trained using the test data and its **accuracy** and **performance** (speed) are tested on a similar yet difference test data set.
 A good machine learning algorithm in one that performs similarly for both test and train data sets.
+
+Generally if same data set is split into train and test data, we assign small portion to test data, approx 0.5 or less (50 percent or less).
+
+## 1. Splitting Data in Python
+
+```Python
+from sklearn.cross_validation import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
+```
+
+* **Library:** sklearn.cross_validation
+* **Class:** train_test_split
+* Create 4 variables -> 2 for test and 2 for train for both dependent and independent variables
+* Argument of train_test_split ->
+1. All the arrays -> variables matrix
+2. test_size (between 0 and 1 exclusive denoting percent of dataset to be assigned)
+3. random_state -> to take random inputs always
+
