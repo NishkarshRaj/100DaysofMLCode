@@ -170,5 +170,25 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 * Argument of train_test_split ->
 1. All the arrays -> variables matrix
 2. test_size (between 0 and 1 exclusive denoting percent of dataset to be assigned)
-3. random_state -> to take random inputs always
+3. random_state -> to remove randomness and get same split always
 
+## 2. Splitting Data in R Programming
+
+```R
+install.packages('caTools') # Install the caTools library
+library(caTools) # Include the library in our build path
+set.seed(123) # Analogous to Python random_state to remove randomness 
+split = sample.split(dataset$DependentVariable, SplitRatio = 0.8)
+training_set = subset(dataset, split == TRUE)
+test_set = subset(dataset, split == FALSE)
+```
+
+**Note:** Different seeds for different users means different result but same seed for same data set for different users will give same result
+
+* split is a programming variable not a pre-built function
+* Arguments of sample.split:
+1. Dependent variable matrix
+2. SplitRatio (for Training set)
+**Note:** sample.split function is divided into two parts after SplitRatio is specified, TRUE and FALSE
+
+Assign TRUE values to training_set and test_set, both of which are not keywords and just programming variables.
