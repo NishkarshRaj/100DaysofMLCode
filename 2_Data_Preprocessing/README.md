@@ -192,3 +192,19 @@ test_set = subset(dataset, split == FALSE)
 **Note:** sample.split function is divided into two parts after SplitRatio is specified, TRUE and FALSE
 
 Assign TRUE values to training_set and test_set, both of which are not keywords and just programming variables.
+
+## Feature Scaling
+
+This pre-processing is done only on **independent variables storing numeric values**.
+Most machine learning models follow **Eucledian Geometry** where Eucledian distance is calculated by the formulae
+
+```
+If P1(x1,y1) and P2(x2,y2) then distance between P1 and P2 is defined by
+
+sqrt[(x2-x1)^2 + (y2-y1)^2]
+```
+
+If two variables are having huge difference in numbers, Eg. X is defined by net worth (Generally in thousands or above) and Y is defined by Total working hours (Generally in tens or less), then the model's accuracy decreases because it net worth factor dominates the total working hours factor.
+
+**Solution:** Standardize all the numeric data set values in between [0-1]
+
