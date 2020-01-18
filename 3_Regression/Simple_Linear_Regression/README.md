@@ -44,3 +44,9 @@ This is similar to Quantum Mechanics electron in well problem where probability 
 ```
 
 Even though the formulae of Simple Linear Regression is same as that of a straight line but it must be noted that dataset when visualized in terms of graph will never give result in form of straight line, it will be approximated as a **BEST FIT** straight line.
+
+## How does Simple Linear Regression model create "Best Fitting Line" or "Trend Line" from actual data set? == Ordinary Square Method
+
+For each value of Xi (Independent value), multiple lines can be created using different M and C values.
+For each actual value (Yi) and modelled value (Yi^), calculate the SUM of (yi-yi^)^2 and choose the best fitting line which has minimum square value.
+
