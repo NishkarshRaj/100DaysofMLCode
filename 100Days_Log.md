@@ -28,3 +28,6 @@
 * Writeups for Splitting Data Sets and Feature Scaling
 * Wrapping up Data-Preprocessing part
 
+## Day 8
+* Introduction to Simple Linear Introduction
+* Simple Linear Regression Code in Python
