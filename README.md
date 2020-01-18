@@ -9,12 +9,19 @@
   * Encoding categorical data
   * Split Data into Train data and Test data
   * Feature Scaling
+  
+2. Regression
+ * Simple Linear Regression
 
-## 100 Days Log
+## Log of my Day-to-Day Activities
 
 Track my daily activities [here](100Days_Log.md)
 
 ## How to Contribute
 
-[Contribution Guidelines](CONTRIBUTING.md)
+This is an open project and contribution of all types are welcomed.
+Please follow these [Contribution Guidelines](CONTRIBUTING.md)
 
+## License
+
+Check the official MIT License [here](LICENSE).
