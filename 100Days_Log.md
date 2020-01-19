@@ -31,3 +31,6 @@
 ## Day 8
 * Introduction to Simple Linear Introduction
 * Simple Linear Regression Code in Python
+
+## Day 9
+* Simple Linear Regression Code in R Programming
