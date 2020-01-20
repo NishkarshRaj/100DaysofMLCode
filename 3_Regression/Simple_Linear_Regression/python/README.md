@@ -40,3 +40,37 @@ pred_vector = regressor.predict(X_test)
 ```
 
 It creates **predicted values** for test data that can be compared with the **True/observed values** of test data which can show the accuracy of our Machine Learning model.
+
+## Part 4: Visualization of Test set and Training set results in form of graphs
+
+**Graph for Simple Linear Regression with two variables: Straight line in 2D with X axis as independent variable and Y axis as dependent variable**
+
+```python
+import matplotlib.pyplot as plt
+
+# Visualising the Training set results
+plt.scatter(X_train, y_train, color = 'red')
+plt.plot(X_train, regressor.predict(X_train), color = 'blue')
+plt.title('Training Set visualization')
+plt.xlabel('Independent Matrix')
+plt.ylabel('Dependent Matrix')
+plt.show()
+
+# Visualising the Test set results
+plt.scatter(X_test, y_test, color = 'red')
+plt.plot(X_train, regressor.predict(X_train), color = 'blue')
+plt.title('Test Set visualization')
+plt.xlabel('Independent Matrix')
+plt.ylabel('Dependent Matrix')
+plt.show()
+```
+* Library used for visualization: **matplotlib**
+* Function used: **pyplot**
+* **scatter:** function to plot the different points.
+* **plot:** function to plot curve between specified points, by default a line.
+* **title:** Specify title of the graph
+* **xlabel:** Label of X axis
+* **ylabel:** Label of Y axis
+* **show:** Display the graph created
+
+
