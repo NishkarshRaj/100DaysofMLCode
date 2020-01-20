@@ -34,3 +34,7 @@
 
 ## Day 9
 * Simple Linear Regression Code in R Programming
+
+## Day 10
+* Write up for Simple Linear Regression with explanation of coding in both R and Python
+* Introduction to Multi Linear Regression
