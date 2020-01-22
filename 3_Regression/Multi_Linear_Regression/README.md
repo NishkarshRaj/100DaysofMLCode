@@ -59,3 +59,4 @@ There are five methods of building the model for Multi Linear Regression:
 4. Bidirection Elimination
 5. Score Comparision
 
+**Step 2 - 4 are together called Stepwise Regression.**
