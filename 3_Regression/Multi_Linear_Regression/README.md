@@ -21,3 +21,11 @@ Y = m0 + m1X1 + m2X2 + m3X3 + ... + mNXN
 
 * **Linear Regression:** Dependent variable related with independent variable in first order only.
 * **Multi:** More than one independent variable
+
+## Assumptions of Linear Regression
+
+1. Linearity
+2. Independence of errors
+3. Homoscedasticity
+4. Multivariate normality
+5. Lack of multi collinearity
