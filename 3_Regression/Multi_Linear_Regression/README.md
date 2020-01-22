@@ -12,3 +12,12 @@ Given a dataset of companies with following independent variables:
 4. Capital spent on Marketing the product.
 
 We have to find the profit based on all independent variable combined.
+
+## Multi Linear Regression
+
+```
+Y = m0 + m1X1 + m2X2 + m3X3 + ... + mNXN
+```
+
+* **Linear Regression:** Dependent variable related with independent variable in first order only.
+* **Multi:** More than one independent variable
