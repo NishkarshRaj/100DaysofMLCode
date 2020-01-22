@@ -45,3 +45,5 @@
 ## Day 12
 * Multi Linear Regression code in R Programming
 
+## Day 13
+* Multi Linear Regression conclusion and writeup for both R and Python programming
