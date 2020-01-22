@@ -1,4 +1,4 @@
-# 100DaysofMLCode Challenge
+# #100DaysofMLCode Challenge
 
 ## Table of Contents
 
@@ -12,6 +12,8 @@
   
 2. Regression
  * Simple Linear Regression
+ * Multi Linear Regression
+ * Polynomial Regression
 
 ## Log of my Day-to-Day Activities
 
