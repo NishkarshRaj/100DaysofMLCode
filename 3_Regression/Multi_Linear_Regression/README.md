@@ -40,3 +40,7 @@ Y = m0 + m1X1 + m2X2 + m3X3 + ... + mNXN
 If we have N categories and N corresponding dummy variables, we should not include all the dummy variables in our final equation because it creates an overhead.
 Example: If we have only two dummy variables, we should take only one variable because if the variable has value 0 that implies that other variable has value 1.
 The variables that are not included in our final multi linear regression model equation are considered to be default condition and they are handled by the constant part of our equation.
+
+The Dummy Variable Trap means that we should never include all the dummy variables and the constant value together in our equation because the machine cannot distinguish between these related values due to **multi collinearity** which increases the overhead and decreases the accuracy of our model.
+
+**Rule of thumb:** Always exclude one or more irrelevant dummy variables from our Multi Linear Regression equation.
