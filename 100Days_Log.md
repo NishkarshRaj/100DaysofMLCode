@@ -47,3 +47,6 @@
 
 ## Day 13
 * Multi Linear Regression conclusion and writeup for both R and Python programming
+
+## Day 14
+* Introduction to Polynomial Regression
