@@ -50,3 +50,6 @@
 
 ## Day 14
 * Introduction to Polynomial Regression
+
+## Day 15
+* Stepwise Polynomial Regression Code in Python and its writeup
