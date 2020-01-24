@@ -21,7 +21,7 @@ Track my daily activities [here](100Days_Log.md)
 
 ## How to Contribute
 
-This is an open project and contribution of all types are welcomed.
+This is an open project and contribution in all forms are welcomed.
 Please follow these [Contribution Guidelines](CONTRIBUTING.md)
 
 ## License
