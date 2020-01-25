@@ -53,3 +53,6 @@
 
 ## Day 15
 * Stepwise Polynomial Regression Code in Python and its writeup
+
+## Day 16
+* Stepwise Polynomial Regression Code in R programming and its writeup
