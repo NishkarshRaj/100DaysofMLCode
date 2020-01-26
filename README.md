@@ -14,6 +14,7 @@
  * Simple Linear Regression
  * Multi Linear Regression
  * Polynomial Regression
+ * Support Vector Regression
 
 ## Log of my Day-to-Day Activities
 
@@ -23,6 +24,10 @@ Track my daily activities [here](100Days_Log.md)
 
 This is an open project and contribution in all forms are welcomed.
 Please follow these [Contribution Guidelines](CONTRIBUTING.md)
+
+## Code of Conduct
+
+Adhere to the GitHub specified community [code](CODE_OF_CONDUCT.md).
 
 ## License
 
