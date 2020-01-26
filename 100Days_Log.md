@@ -56,3 +56,6 @@
 
 ## Day 16
 * Stepwise Polynomial Regression Code in R programming and its writeup
+
+## Day 17
+* Introduction to Support Vector Regression 
