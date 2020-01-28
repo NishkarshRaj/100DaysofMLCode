@@ -59,3 +59,6 @@
 
 ## Day 17
 * Introduction to Support Vector Regression 
+
+## Day 18
+* Support Vector Regression Code in Python
