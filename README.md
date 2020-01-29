@@ -15,6 +15,7 @@
  * Multi Linear Regression
  * Polynomial Regression
  * Support Vector Regression
+ * Decision Tree Regression
 
 ## Log of my Day-to-Day Activities
 
