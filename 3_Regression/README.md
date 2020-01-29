@@ -7,3 +7,5 @@
 [3. Polynomial Regression](Polynomial_Regression)
 
 [4. Support Vector Regression](Support_Vector_Regression)
+
+[5. Decision Tree Regression](Decision_Tree_Regression)
