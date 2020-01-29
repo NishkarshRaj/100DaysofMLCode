@@ -1,4 +1,4 @@
-# 100DaysofMLCode Challenge Log
+# #100DaysofMLCode Challenge Log
 
 ## Day 1
 * Definition of Machine Learning
@@ -62,3 +62,9 @@
 
 ## Day 18
 * Support Vector Regression Code in Python
+
+## Day 19
+* Support Vector Regression Code in R Programming
+
+## Day 20
+* Introduction to Decision Tree Regression
