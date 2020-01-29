@@ -65,3 +65,6 @@
 
 ## Day 19
 * Support Vector Regression Code in R Programming
+
+## Day 20
+* Introduction to Decision Tree Regression
