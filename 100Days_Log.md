@@ -69,3 +69,6 @@
 ## Day 20
 * Introduction to Decision Tree Regression
 * Decision Tree Regression in Python
+
+## Day 21
+* Decision Tree Regression in R Programming
