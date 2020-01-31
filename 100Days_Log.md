@@ -72,3 +72,7 @@
 
 ## Day 21
 * Decision Tree Regression in R Programming
+
+## Day 22
+* Introduction to Random Forest Regression
+* Random Forest Regression in Python
