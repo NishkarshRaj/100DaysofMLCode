@@ -9,3 +9,5 @@
 [4. Support Vector Regression](Support_Vector_Regression)
 
 [5. Decision Tree Regression](Decision_Tree_Regression)
+
+[6. Random Forest Regression](Random_Forest_Regression)
