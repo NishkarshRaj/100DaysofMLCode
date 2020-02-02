@@ -14,7 +14,7 @@
 
 ## Comparing Regression Models and their performance
 
-**R Squared Intution for Simple Linear Regression**
+### R Squared Intution for Simple Linear Regression
 
 Simple Linear Regression Model is based on mathematical model with following condition
 ```
@@ -35,3 +35,26 @@ R^2 = 1 - (Sresidual/Stotal)
 * Since we have to minimize Sum Residual, R square must be maximized.
 * Thus, if R^2 is closer to 1, the model is good and vice versa.
 
+### Adjusted R Squared Intution
+
+**Problem in R Square method:** It cannot predict whether increasing number of independent variables improve or degrade our model.
+**Reason:** R square never decreases, it can only increase or remain constant. 
+> Increase: 1 and Stotal are constant, if model improves, Sres decreases and the R square increases
+
+> Constant: Adding new variable has negligible impact and Sres is practically same as old.
+
+Thus, we can never state whether adding new variables improve or degrade our model because R2 equation does not depend on number of variables
+
+**Adjusted R Square Model**
+```
+Adjusted R Square = 1 - [(1-R^2)*(n-1/n-p-1)]
+```
+* p = number of regressors/number of independent variables
+* n = sample size (constant for dataset)
+
+Here, p is the penalization factor and has opposite effect to R^2 value.
+> Effect of p: Increasing number of independent variables decreases the value of Adjusted R square
+
+> Effect of R square: R square can only increase, so increase in it increases Adjusted R square
+
+**Note:** On adding new variable, if Adjusted R^2 increases, keep the new variable else discard it.
