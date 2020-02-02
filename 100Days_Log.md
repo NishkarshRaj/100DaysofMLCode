@@ -79,3 +79,8 @@
 
 ## Day 23
 * Random Forest Regression In R
+
+## Day 24
+* Concluding Regression 
+* Comparing Different Regression Models
+* R Squared Approach
