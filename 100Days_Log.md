@@ -84,3 +84,4 @@
 * Concluding Regression 
 * Comparing Different Regression Models
 * R Squared Approach
+* Adjusted R Squared Approach
