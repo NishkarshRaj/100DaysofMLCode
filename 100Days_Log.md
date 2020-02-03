@@ -85,3 +85,7 @@
 * Comparing Different Regression Models
 * R Squared Approach
 * Adjusted R Squared Approach
+
+## Day 25
+ * Introduction to Classifications
+ * Introduction to Logistic Regression

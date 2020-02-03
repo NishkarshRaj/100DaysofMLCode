@@ -17,6 +17,9 @@
  * Support Vector Regression
  * Decision Tree Regression
  * Random Forest Regression
+ 
+3. Classification
+ * Logistic Regression
 
 ## Log of my Day-to-Day Activities
 
