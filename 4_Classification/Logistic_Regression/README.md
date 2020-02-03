@@ -18,3 +18,5 @@ Here, the probabilites lies in the range [0,1] and we can state that first categ
 * Left to 0 horizon and regression intersection means 0 probability
 * Right to 1 horizon and regression interection means 1 probability
 
+![Equation](assets/Equation.png)
+
