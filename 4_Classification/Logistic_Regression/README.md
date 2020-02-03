@@ -20,3 +20,13 @@ Here, the probabilites lies in the range [0,1] and we can state that first categ
 
 ![Equation](assets/Equation.png)
 
+
+**Actual Values for dependent variables:**
+
+For Independent variable, drop perpendicular to regressor.
+From regressor intersection, drop perpendicular to dependent variable axis to get the actual probability.
+
+**Predicting probability for dependent variables:**
+
+Take an average probability line and all the values on regressor below it lead to prediction of zero probability and vice-versa
+
