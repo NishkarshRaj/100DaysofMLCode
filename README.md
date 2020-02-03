@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. Data Pre-processing
+**1. Data Pre-processing**
   * Importing Libraries
   * Importing Data sets
   * Handling the missing data values
@@ -10,7 +10,7 @@
   * Split Data into Train data and Test data
   * Feature Scaling
   
-2. Regression
+**2. Regression**
  * Simple Linear Regression
  * Multi Linear Regression
  * Polynomial Regression
@@ -18,7 +18,7 @@
  * Decision Tree Regression
  * Random Forest Regression
  
-3. Classification
+**3. Classification**
  * Logistic Regression
 
 ## Log of my Day-to-Day Activities
