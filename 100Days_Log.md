@@ -89,3 +89,6 @@
 ## Day 25
  * Introduction to Classifications
  * Introduction to Logistic Regression
+
+## Day 26
+ * Logistic Regression in Python
