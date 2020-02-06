@@ -20,6 +20,7 @@
  
 **3. Classification**
  * Logistic Regression
+ * K Nearest Neighbors Classification
 
 ## Log of my Day-to-Day Activities
 
