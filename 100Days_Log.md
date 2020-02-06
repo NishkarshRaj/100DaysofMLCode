@@ -87,8 +87,11 @@
 * Adjusted R Squared Approach
 
 ## Day 25
- * Introduction to Classifications
- * Introduction to Logistic Regression
+* Introduction to Classifications
+* Introduction to Logistic Regression
 
 ## Day 26
- * Logistic Regression in Python
+* Logistic Regression in Python
+
+## Day 27
+* Logistic Regression in R
