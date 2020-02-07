@@ -98,3 +98,6 @@
 
 ## Day 28
 * Introduction To K-Nearest Neighbor Classification
+
+## Day 29
+* Classification of data set using K-Nearest Neigbors in Python
