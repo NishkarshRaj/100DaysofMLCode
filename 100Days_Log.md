@@ -95,3 +95,6 @@
 
 ## Day 27
 * Logistic Regression in R
+
+## Day 28
+* Introduction To K-Nearest Neighbor Classification
