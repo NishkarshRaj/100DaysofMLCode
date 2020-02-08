@@ -4,7 +4,7 @@
 
 2. Clone the repository to your local machine
 ```
-$ git clone "https://www.github.com/{Username}/100DaysofML.git"
+$ git clone "https://www.github.com/{Username}/100DaysofMLCode.git"
 ```
 where username is your GitHub account username.
 
@@ -35,7 +35,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream "https://www.github.com/NishkarshRaj/100DaysofML"
+$ git remote add upstream "https://www.github.com/NishkarshRaj/100DaysofMLCode"
 ```
 
 2. Fetch upstream changes in local machine
