@@ -101,3 +101,6 @@
 
 ## Day 29
 * Classification of data set using K-Nearest Neigbors in Python
+
+## Day 30
+* Classification of data set using K-Nearest Neigbors in R
