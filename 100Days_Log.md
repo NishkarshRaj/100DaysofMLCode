@@ -104,3 +104,6 @@
 
 ## Day 30
 * Classification of data set using K-Nearest Neigbors in R
+
+## Day 31
+* Introduction to classification using Support Vector Machines.
