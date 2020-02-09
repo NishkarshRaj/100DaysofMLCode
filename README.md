@@ -21,6 +21,7 @@
 **3. Classification**
  * Logistic Regression
  * K Nearest Neighbors Classification
+ * Support Vector Machine
 
 ## Log of my Day-to-Day Activities
 
