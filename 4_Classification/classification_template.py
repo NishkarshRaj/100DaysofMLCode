@@ -23,10 +23,6 @@ X_test = sc.transform(X_test)
 # Fitting classifier to the Training set
 # Create your classifier here
 
-
-
-
-
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
 
