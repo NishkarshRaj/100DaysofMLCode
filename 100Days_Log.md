@@ -107,3 +107,6 @@
 
 ## Day 31
 * Introduction to classification using Support Vector Machines.
+
+## Day 32
+* Support Vector Machine Classification in Python
