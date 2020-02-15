@@ -7,3 +7,5 @@
 [2. K Nearest Neighbors](K_Nearest_Neighbors)
 
 [3. Support Vector Machines](Support-Vector-Machine)
+
+[4. Kernel SVM](Kernel-SVM)
