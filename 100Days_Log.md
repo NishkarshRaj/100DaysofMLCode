@@ -113,3 +113,7 @@
 
 ## Day 33
 * Support Vector Machine Classification in R Programming
+
+## Day 34-37
+
+> These days are clubbed together because I had to spend full time in travel and industrial visit at Xebia Gurugram, India office.
