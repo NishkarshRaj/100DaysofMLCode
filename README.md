@@ -22,6 +22,7 @@
  * Logistic Regression
  * K Nearest Neighbors Classification
  * Support Vector Machine
+ * Kernel SVM
 
 ## Log of my Day-to-Day Activities
 
