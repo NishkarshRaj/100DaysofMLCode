@@ -119,3 +119,6 @@
 > These days are clubbed together because I had to spend full time in travel and industrial visit at Xebia Gurugram, India office.
 
 * Introduction to Kernel SVM and programmed them in Python and R
+
+## Day 38
+* Introduction to Classification using Naive Bayes Algorithm.
