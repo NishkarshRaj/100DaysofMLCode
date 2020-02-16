@@ -23,6 +23,7 @@
  * K Nearest Neighbors Classification
  * Support Vector Machine
  * Kernel SVM
+ * Naive Bayes
 
 ## Log of my Day-to-Day Activities
 
