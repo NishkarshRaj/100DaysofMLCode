@@ -9,3 +9,5 @@
 [3. Support Vector Machines](Support-Vector-Machine)
 
 [4. Kernel SVM](Kernel-SVM)
+
+[5. Naive Bayes](Naive_Bayes)
