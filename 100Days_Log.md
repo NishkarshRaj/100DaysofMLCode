@@ -125,3 +125,6 @@
 
 ## Day 39
 * Data Classification using Naive Bayes method in Python
+
+## Day 40
+* Data Classfication using Naive Bayes method in R
