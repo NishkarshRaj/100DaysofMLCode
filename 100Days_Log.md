@@ -122,3 +122,6 @@
 
 ## Day 38
 * Introduction to Classification using Naive Bayes Algorithm.
+
+## Day 39
+* Data Classification using Naive Bayes method in Python
