@@ -24,6 +24,7 @@
  * Support Vector Machine
  * Kernel SVM
  * Naive Bayes
+ * Decision Tree Classification
 
 ## Log of my Day-to-Day Activities
 
