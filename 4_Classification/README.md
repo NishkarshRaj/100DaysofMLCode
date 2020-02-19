@@ -11,3 +11,5 @@
 [4. Kernel SVM](Kernel-SVM)
 
 [5. Naive Bayes](Naive_Bayes)
+
+[6. Decision Tree Classificaiton](Decision_Tree_Classification)
