@@ -128,3 +128,6 @@
 
 ## Day 40
 * Data Classfication using Naive Bayes method in R
+
+## Day 41
+* Introduction to Decision Tree Classification
