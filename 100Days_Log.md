@@ -131,3 +131,6 @@
 
 ## Day 41
 * Introduction to Decision Tree Classification
+
+## Day 42
+* Decision Tree Classification in Python
