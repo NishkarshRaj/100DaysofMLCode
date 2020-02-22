@@ -25,6 +25,7 @@
  * Kernel SVM
  * Naive Bayes
  * Decision Tree Classification
+ * Random Forest Classification
 
 ## Log of my Day-to-Day Activities
 
