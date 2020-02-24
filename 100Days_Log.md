@@ -142,4 +142,7 @@
 * Introduction to Random Forest Classification
 
 ## Day 45
-* Random Forest Classificaition in Python
+* Random Forest Classification in Python
+
+## Day 46
+* Random Forest Classification in R
