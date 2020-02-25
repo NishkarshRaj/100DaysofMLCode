@@ -27,6 +27,9 @@
  * Decision Tree Classification
  * Random Forest Classification
 
+**4. Clustering**
+ * K-Means Clustering
+
 ## Log of my Day-to-Day Activities
 
 Track my daily activities [here](100Days_Log.md)
