@@ -149,4 +149,5 @@
 * Wrapping up Data classification
 
 ## Day 47
-* 
+* Introduction to Clustering Algorithms
+* Introduction to K-Means clustering
