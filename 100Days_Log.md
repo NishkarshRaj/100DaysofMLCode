@@ -151,3 +151,6 @@
 ## Day 47
 * Introduction to Clustering Algorithms
 * Introduction to K-Means clustering
+
+## Day 48
+* K-Means clustering in Python
