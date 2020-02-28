@@ -157,3 +157,6 @@
 
 ## Day 49
 * K-Means clustering in R
+
+## Day 50
+* Introduction to Hierarchical Clustering
