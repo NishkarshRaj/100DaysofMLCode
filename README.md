@@ -29,6 +29,7 @@
 
 **4. Clustering**
  * K-Means Clustering
+ * Hierarchical Clustering
 
 ## Log of my Day-to-Day Activities
 
