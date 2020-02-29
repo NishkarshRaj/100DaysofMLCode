@@ -160,3 +160,6 @@
 
 ## Day 50
 * Introduction to Hierarchical Clustering
+
+## Day 51
+* Hierarchical Clustering in Python
