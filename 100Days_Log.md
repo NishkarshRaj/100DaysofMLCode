@@ -163,3 +163,6 @@
 
 ## Day 51
 * Hierarchical Clustering in Python
+
+## Day 52
+* Hierarichal Clustering in R
