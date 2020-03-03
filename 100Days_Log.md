@@ -170,4 +170,5 @@
 ## Day 53
 * Comparison between different clustering algorithms
 
-
+## Day 54
+* Introduction to Association Rule Learning
