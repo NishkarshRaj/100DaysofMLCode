@@ -30,6 +30,9 @@
 **4. Clustering**
  * K-Means Clustering
  * Hierarchical Clustering
+ 
+**5. Association Rule**
+ * Apriori 
 
 ## Log of my Day-to-Day Activities
 
