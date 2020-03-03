@@ -166,3 +166,8 @@
 
 ## Day 52
 * Hierarichal Clustering in R
+
+## Day 53
+* Comparison between different clustering algorithms
+
+
