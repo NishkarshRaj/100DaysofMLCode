@@ -172,3 +172,6 @@
 
 ## Day 54
 * Introduction to Association Rule Learning
+
+## Day 55
+* Apriori Rule in R
