@@ -175,3 +175,6 @@
 
 ## Day 55
 * Apriori Rule in R
+
+## Day 56
+* Introduction to Apriori Rule in Python and template file
