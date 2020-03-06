@@ -178,3 +178,6 @@
 
 ## Day 56
 * Introduction to Apriori Rule in Python and template file
+
+## Day 57
+* Apriori Rule in Python
