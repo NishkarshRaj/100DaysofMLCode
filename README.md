@@ -33,6 +33,7 @@
  
 **5. Association Rule**
  * Apriori 
+ * Eclat
 
 ## Log of my Day-to-Day Activities
 
