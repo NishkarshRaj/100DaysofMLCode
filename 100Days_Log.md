@@ -181,3 +181,6 @@
 
 ## Day 57
 * Apriori Rule in Python
+
+## Day 58
+* Association Rule Learning with Eclat
