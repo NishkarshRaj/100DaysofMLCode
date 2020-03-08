@@ -184,3 +184,7 @@
 
 ## Day 58
 * Association Rule Learning with Eclat
+
+## Day 59
+* Introduction to Reinforcement Learning
+* Introduction to Upper Confidence Bounds Algorithm
