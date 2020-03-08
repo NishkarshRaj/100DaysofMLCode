@@ -34,6 +34,9 @@
 **5. Association Rule**
  * Apriori 
  * Eclat
+ 
+ **6. Reinforcement Learning**
+  * Upper Confidence Bounds
 
 ## Log of my Day-to-Day Activities
 
