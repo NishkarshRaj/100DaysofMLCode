@@ -188,3 +188,6 @@
 ## Day 59
 * Introduction to Reinforcement Learning
 * Introduction to Upper Confidence Bounds Algorithm
+
+## Day 60
+* Reinforcement Learning using Random Selections in both R and Python
