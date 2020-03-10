@@ -191,3 +191,7 @@
 
 ## Day 60
 * Reinforcement Learning using Random Selections in both R and Python
+
+## Day 61
+* Upper Confidence Bound algorithms in R
+* Upper Confidence Bound algorithms in Python
