@@ -195,3 +195,6 @@
 ## Day 61
 * Upper Confidence Bound algorithms in R
 * Upper Confidence Bound algorithms in Python
+
+## Day 62
+* Introduction to Thompson Sampling 
