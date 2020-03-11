@@ -35,8 +35,9 @@
  * Apriori 
  * Eclat
  
- **6. Reinforcement Learning**
+**6. Reinforcement Learning**
   * Upper Confidence Bounds
+  * Thompson Sampling
 
 ## Log of my Day-to-Day Activities
 
