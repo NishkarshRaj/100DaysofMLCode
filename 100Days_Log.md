@@ -198,3 +198,6 @@
 
 ## Day 62
 * Introduction to Thompson Sampling 
+
+## Day 63
+* Thompson Sampling in Python
