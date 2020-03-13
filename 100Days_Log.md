@@ -201,3 +201,6 @@
 
 ## Day 63
 * Thompson Sampling in Python
+
+## Day 64
+* Thompson Sampling in R
