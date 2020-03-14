@@ -204,3 +204,6 @@
 
 ## Day 64
 * Thompson Sampling in R
+
+## Day 65
+* Introduction to Natural Language Processing
