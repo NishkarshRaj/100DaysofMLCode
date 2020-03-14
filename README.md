@@ -36,8 +36,10 @@
  * Eclat
  
 **6. Reinforcement Learning**
-  * Upper Confidence Bounds
-  * Thompson Sampling
+ * Upper Confidence Bounds
+ * Thompson Sampling
+
+**7. Natural Language Processing** 
 
 ## Log of my Day-to-Day Activities
 
