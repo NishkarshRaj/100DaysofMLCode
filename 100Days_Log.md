@@ -210,3 +210,6 @@
 
 ## Day 66
 * NLP programming in Python
+
+## Day 67
+* NLP programming in R
