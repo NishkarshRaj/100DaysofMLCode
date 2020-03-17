@@ -207,3 +207,6 @@
 
 ## Day 65
 * Introduction to Natural Language Processing
+
+## Day 66
+* NLP programming in Python
