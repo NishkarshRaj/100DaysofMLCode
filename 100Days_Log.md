@@ -213,3 +213,7 @@
 
 ## Day 67
 * NLP programming in R
+
+## Day 68
+* Introduction to Deep Learning
+* Introduction to Artificial Neural Networks
