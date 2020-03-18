@@ -41,6 +41,9 @@
 
 **7. Natural Language Processing** 
 
+**8. Deep Learning**
+ * Artificial Neural Networks (ANN)
+
 ## Log of my Day-to-Day Activities
 
 Track my daily activities [here](100Days_Log.md)
