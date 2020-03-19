@@ -217,3 +217,6 @@
 ## Day 68
 * Introduction to Deep Learning
 * Introduction to Artificial Neural Networks
+
+## Day 69
+* Artificial Neural Networks in Python
