@@ -223,3 +223,6 @@
 
 ## Day 70
 * Artificial Neural Networks in R
+
+## Day 71
+* Introduction to Convolutional Neural Networks
