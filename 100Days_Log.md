@@ -220,3 +220,6 @@
 
 ## Day 69
 * Artificial Neural Networks in Python
+
+## Day 70
+* Artificial Neural Networks in R
