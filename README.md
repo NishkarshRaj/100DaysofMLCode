@@ -43,6 +43,7 @@
 
 **8. Deep Learning**
  * Artificial Neural Networks (ANN)
+ * Convolutional Neural Networks (CNN)
 
 ## Log of my Day-to-Day Activities
 
