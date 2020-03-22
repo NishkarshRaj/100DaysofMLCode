@@ -226,3 +226,6 @@
 
 ## Day 71
 * Introduction to Convolutional Neural Networks
+
+## Day 72
+* Convolutional Neural Networks in Python
