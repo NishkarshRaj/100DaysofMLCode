@@ -44,3 +44,20 @@ summary(regressor)
 regressor = lm(formula = Profit ~ R.D.Spend,
                data = dataset)
 summary(regressor)
+
+# Regression subset selection including exhaustive search
+library(leaps)
+#Perform all subset regression, and choose “nbest” model(s) for each number of predictors
+leaps<-regsubsets(Profit ~ .,data=training_set, nbest=1, method = "exhaustive")
+
+# view results and best model at each variable number
+summary(leaps)
+
+# Graphical table of best subsets, models are ordered by the selection statistic
+plot(leaps,scale="r2")
+
+# plot statistic by subset size
+subsets(leaps, statistic="adjr2", legend = FALSE)
+
+# Mallow Cp is used to decide on the number of predictors to include
+subsets(leaps, statistic="cp", legend = FALSE)
