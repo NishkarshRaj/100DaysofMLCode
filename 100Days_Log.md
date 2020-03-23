@@ -229,3 +229,7 @@
 
 ## Day 72
 * Convolutional Neural Networks in Python
+
+## Day 73
+* Introduction to Dimensionality Reduction
+* Introduction to Principal Component Analysis (PCA)
