@@ -233,3 +233,6 @@
 ## Day 73
 * Introduction to Dimensionality Reduction
 * Introduction to Principal Component Analysis (PCA)
+
+## Day 74
+* Principal Component Analysis in Python
