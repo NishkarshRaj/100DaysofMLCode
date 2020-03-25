@@ -236,3 +236,6 @@
 
 ## Day 74
 * Principal Component Analysis in Python
+
+## Day 75
+* Principal Component Analysis in R
