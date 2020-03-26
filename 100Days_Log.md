@@ -239,3 +239,6 @@
 
 ## Day 75
 * Principal Component Analysis in R
+
+## Day 76
+* Introduction to Linear Discriminant Analysis
