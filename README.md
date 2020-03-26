@@ -47,6 +47,7 @@
  
 **9. Dimensionality Reduction**
  * Principal Component Analysis (PCA)
+ * Linear Discriminant Analysis (LDA)
 
 ## Log of my Day-to-Day Activities
 
