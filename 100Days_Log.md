@@ -242,3 +242,9 @@
 
 ## Day 76
 * Introduction to Linear Discriminant Analysis
+
+## Day 77
+* Linear Discriminant Analysis in Python
+
+## Day 78
+* Linear Discriminant Analysis in R
