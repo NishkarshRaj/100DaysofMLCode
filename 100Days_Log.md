@@ -248,3 +248,6 @@
 
 ## Day 78
 * Linear Discriminant Analysis in R
+
+## Day 79
+* Introduction to Kernel PCA
