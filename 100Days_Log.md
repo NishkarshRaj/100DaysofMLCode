@@ -251,3 +251,6 @@
 
 ## Day 79
 * Introduction to Kernel PCA
+
+## Day 80
+* Kernel PCA in Python
