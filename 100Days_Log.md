@@ -254,3 +254,6 @@
 
 ## Day 80
 * Kernel PCA in Python
+
+## Day 81
+* Kernel PCA in R
