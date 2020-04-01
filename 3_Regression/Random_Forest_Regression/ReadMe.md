@@ -3,14 +3,14 @@ Random forests or random decision forests are an ensemble learning method for cl
 Random forest is a bagging technique and not a boosting technique. The trees in random forests are run in parallel. There is no interaction between these trees while building the trees.
 
 ### Feature and Advantages of Random Forest:
-**1. It runs efficiently on large databases.
-**2. It gives estimates of what variables that are important in the classification.
-**3. It is one of the most accurate learning algorithms available. For many data sets, it produces a highly accurate classifier.
-**4. It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing.
+1. It runs efficiently on large databases.
+2. It gives estimates of what variables that are important in the classification.
+3. It is one of the most accurate learning algorithms available. For many data sets, it produces a highly accurate classifier.
+4. It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing.
 
 ### Disadvantages of Random Forest :
-**1. Random forests have been observed to overfit for some datasets with noisy classification/regression tasks.
-**2. For data including categorical variables with different number of levels, random forests are biased in favor of those attributes with more levels. Therefore, the variable importance scores from random forest are not reliable for this type of data.
+1. Random forests have been observed to overfit for some datasets with noisy classification/regression tasks.
+2. For data including categorical variables with different number of levels, random forests are biased in favor of those attributes with more levels. Therefore, the variable importance scores from random forest are not reliable for this type of data.
 
 ### Data Set
 The given DataSet has 3 columns:
