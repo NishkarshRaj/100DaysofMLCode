@@ -1,6 +1,6 @@
 # Random Forest Regression
 Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks. Random forest is a Supervised Learning algorithm which uses ensemble learning method for classification and regression.
-Random forest is a bagging technique and not a boosting technique. The trees in random forests are run in parallel. There is no interaction between these trees while building the trees.
+Random forest is a bagging technique and not a boosting technique.
 
 ### Feature and Advantages of Random Forest:
 1. It runs efficiently on large databases.
