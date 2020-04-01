@@ -14,7 +14,7 @@ Random forest is a bagging technique and not a boosting technique. The trees in 
 
 ### Data Set
 The given DataSet has 3 columns:
-**1. Position**,
+1. Position,
 **2. Level**,
 **3. Salary**.
 
