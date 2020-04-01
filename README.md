@@ -49,6 +49,9 @@
  * Principal Component Analysis (PCA)
  * Linear Discriminant Analysis (LDA)
  * Kernel PCA
+ 
+**10. Model Selection**
+ * Grid Search
 
 ## Log of my Day-to-Day Activities
 
