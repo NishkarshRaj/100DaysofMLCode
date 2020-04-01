@@ -257,3 +257,6 @@
 
 ## Day 81
 * Kernel PCA in R
+
+## Day 82
+* Introduction to Model Selection
