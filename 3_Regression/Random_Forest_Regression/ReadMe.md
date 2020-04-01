@@ -62,7 +62,8 @@ y_pred = regressor.predict(6.5)
 
 ## Implementation in R
 
-1. Load the Dataset** If we look at the dataset, we need to predict the salary for an employee who falls under Level 6.5 — So we really do not need the first column “Position”.
+1. Load the Dataset.
+If we look at the dataset, we need to predict the salary for an employee who falls under Level 6.5 — So we really do not need the first column “Position”.
 dataset = dataset[2:3]
 
 2. Split the data into training set and test set. Install caTools library to split the data.
