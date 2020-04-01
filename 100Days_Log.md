@@ -260,3 +260,6 @@
 
 ## Day 82
 * Introduction to Model Selection
+
+## Day 83
+* Introduction to Grid Selection and programming it in Python
