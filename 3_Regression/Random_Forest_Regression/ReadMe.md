@@ -28,45 +28,45 @@ Libraries consists of pre-built functions that take user input and give desired 
 
 Three essential libraries:
 
-**1. numpy:** For mathematical functions
-**2. matplotlib.pyplot:** Creating charts for visualization
-**3. pandas:** to import and manage data sets
-**4. sklearn:** To split the dataset and later scaling of test and training data.
+1. numpy: For mathematical functions
+2. matplotlib.pyplot: Creating charts for visualization
+3. pandas: to import and manage data sets
+4. sklearn: To split the dataset and later scaling of test and training data.
 
 ### 2. Importing Libraries in R
 Can be imported via GUI package explorer in RStudio. Generally all basic libraries we need are automatically imported.
 
 Three essential libraries:
 
-**1. caTools:** To split the dataset into Training set and Test set.
-**2. randomForest:** Fitting Random Forest Regression to the dataset.
-**3. ggplot2:** To visualize the Random Forest Regression result.
+1. caTools: To split the dataset into Training set and Test set.
+2. randomForest: Fitting Random Forest Regression to the dataset.
+3. ggplot2: To visualize the Random Forest Regression result.
 
 ## Implementation in Python
 
-**Step1.** Import required libraries.
-**Step2.** Import and print the dataset.
-**Step3.** Split the data into training set and test set.
-**Step4.** Scale the data using StandardScalar.
-**Step5.** Select all rows and column 1 from dataset to x and all rows and column 2 as y.
+1. Import required libraries.
+2. Import and print the dataset.
+3. Split the data into training set and test set.
+4. Scale the data using StandardScalar.
+5. Select all rows and column 1 from dataset to x and all rows and column 2 as y.
 x = data.iloc[:, 1:2].values  
 print(x) 
 y = data.iloc[:, 2].values
-**Step6.** Fit Random forest regressor to the dataset.
+6. Fit Random forest regressor to the dataset.
 regressor = RandomForestRegressor(n_estimators = 100, random_state = 0) 
 regressor.fit(x, y)
-**Step7.** Predicting a new result
+7. Predicting a new result
 y_pred = regressor.predict(6.5)
 
-**Step8.** Visualising the result using pyplot.
+8. Visualising the result using pyplot.
 
 ## Implementation in R
 
-**Step1. Load the Dataset** If we look at the dataset, we need to predict the salary for an employee who falls under Level 6.5 — So we really do not need the first column “Position”.
+1. Load the Dataset** If we look at the dataset, we need to predict the salary for an employee who falls under Level 6.5 — So we really do not need the first column “Position”.
 dataset = dataset[2:3]
 
-**Step2.** Split the data into training set and test set. Install caTools library to split the data.
-**Step3.** Scale the training_setand test_set.
-**Step4.** Fitting Random Forest Regression to the dataset. Install randomForest package.
-**Step5.** Prediction of new result.
-**Step6.** Visualization of RFR result in high quality.
+2. Split the data into training set and test set. Install caTools library to split the data.
+3. Scale the training_setand test_set.
+4. Fitting Random Forest Regression to the dataset. Install randomForest package.
+5. Prediction of new result.
+6. Visualization of RFR result in high quality.
