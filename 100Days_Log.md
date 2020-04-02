@@ -263,3 +263,6 @@
 
 ## Day 83
 * Introduction to Grid Selection and programming it in Python
+
+## Day 84
+* Grid Selection programmin in R
