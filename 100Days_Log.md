@@ -269,3 +269,6 @@
 
 ## Day 85
 * K-fold Cross Validation in Python
+
+## Day 86
+* K-fold Cross Validation in R
