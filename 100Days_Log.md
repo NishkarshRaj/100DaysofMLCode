@@ -266,3 +266,6 @@
 
 ## Day 84
 * Grid Selection programmin in R
+
+## Day 85
+* K-fold Cross Validation in Python
