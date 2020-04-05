@@ -53,6 +53,7 @@
 **10. Model Selection**
  * Grid Search
  * K-fold Cross Validation
+ * XGBoost
 
 ## Log of my Day-to-Day Activities
 
