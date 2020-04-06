@@ -275,3 +275,6 @@
 
 ## Day 87
 * Introduction to XGBoost
+
+## Day 88
+* XGBoost programming in Python
