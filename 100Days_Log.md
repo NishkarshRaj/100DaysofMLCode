@@ -278,3 +278,6 @@
 
 ## Day 88
 * XGBoost programming in Python
+
+## Day 89
+* XGBoost programming in R
