@@ -281,3 +281,6 @@
 
 ## Day 89
 * XGBoost programming in R
+
+## Day 90
+* Introduction to AIOps
