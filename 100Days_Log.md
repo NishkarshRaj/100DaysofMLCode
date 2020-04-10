@@ -284,3 +284,9 @@
 
 ## Day 90
 * Introduction to AIOps
+
+## Day 91
+* AIOps with MoogSoft
+
+## Day 92
+* AIOps with DataDog
