@@ -290,3 +290,6 @@
 
 ## Day 92
 * AIOps with DataDog
+
+## Day 93
+* Data Visualization | Tableau
