@@ -293,3 +293,6 @@
 
 ## Day 93
 * Data Visualization | Tableau
+
+## Day 94
+* Data Visulization | Power BI
