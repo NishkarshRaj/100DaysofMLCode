@@ -54,6 +54,11 @@
  * Grid Search
  * K-fold Cross Validation
  * XGBoost
+ 
+**11. Data Visualization**
+ * Matplotlib library in Python
+ * Tableau
+ * Power BI
 
 ## Log of my Day-to-Day Activities
 
