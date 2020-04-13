@@ -59,6 +59,7 @@
  * Matplotlib library in Python
  * Tableau
  * Power BI
+ * Grafana
 
 ## Log of my Day-to-Day Activities
 
