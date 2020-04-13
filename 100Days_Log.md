@@ -296,3 +296,6 @@
 
 ## Day 94
 * Data Visulization | Power BI
+
+## Day 95
+* Data Visualization | Grafana
