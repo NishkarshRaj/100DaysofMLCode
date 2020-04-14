@@ -299,3 +299,6 @@
 
 ## Day 95
 * Data Visualization | Grafana
+
+## Day 96
+* Natural Language Processing | AWS Comprehend
