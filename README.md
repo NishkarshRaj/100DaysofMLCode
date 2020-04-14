@@ -40,6 +40,7 @@
  * Thompson Sampling
 
 **7. Natural Language Processing** 
+ * AWS Comprehend
 
 **8. Deep Learning**
  * Artificial Neural Networks (ANN)
