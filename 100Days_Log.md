@@ -302,3 +302,6 @@
 
 ## Day 96
 * Natural Language Processing | AWS Comprehend
+
+## Day 97
+* AWS Comprehend | Day 2
