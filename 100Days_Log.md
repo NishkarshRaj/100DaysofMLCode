@@ -308,3 +308,6 @@
 
 ## Day 98-99
 * Implementing Real Time Social Media mining project | Sentimental Analysis
+
+## Day 100
+* Starting my journey to Machine Learning on cloud. Follow my project [here](https://github.com/stormsinbrewing/Real_Time_Social_Media_Mining). 
