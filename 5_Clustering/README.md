@@ -29,4 +29,6 @@ Each cluster has a center, which is a data point that represents the center of t
  1. K-Means clustering is highly sensitive to the initially chosen cluster centers. Hence, K-means can be run with different starting cluster centers to get optimum results.
  2. If you do not know the optimum number of clusters to divide the data, try the algorithm with different values of k and select the best k for which the data gets nicely grouped together.
 
-## Hierarchical Clustering
+## Hierarchical Clustering - Agglomerative Clustering
+
+Initially, each data point is treated as an independent cluster. At each step, the two closest clusters are merged to become one cluster. This process continues until only a single cluster remains. Once the process is complete, we can cut the tree into clusters as needed.
