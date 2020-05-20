@@ -24,4 +24,9 @@ Each cluster has a center, which is a data point that represents the center of t
 	 2. Assign the point to the cluster having the closest center.
 	 3. Recalculate the center for clusters by taking the average of all data points assigned to that cluster.
 
+### Additional Information
+
+ 1. K-Means clustering is highly sensitive to the initially chosen cluster centers. Hence, K-means can be run with different starting cluster centers to get optimum results.
+ 2. If you do not know the optimum number of clusters to divide the data, try the algorithm with different values of k and select the best k for which the data gets nicely grouped together.
+
 ## Hierarchical Clustering
