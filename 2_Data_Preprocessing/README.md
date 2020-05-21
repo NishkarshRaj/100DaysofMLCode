@@ -28,7 +28,7 @@ Three essential libraries:
 
 **How to import library in python**
 ```python
-import library as alias;
+import libary as alias;
 ```
 
 ## 2. Importing Libraries in R
