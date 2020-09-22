@@ -1,4 +1,4 @@
-![docs/cover.png](Cover Image)
+![Cover Image](docs/cover.png)
 
 <h1 align="center">#100DaysofMLCode</h1>
 
