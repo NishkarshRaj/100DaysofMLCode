@@ -1,4 +1,6 @@
-# #100DaysofMLCode Challenge
+![docs/cover.png](Cover Image)
+
+<h1 align="center">#100DaysofMLCode</h1>
 
 ## Table of Contents
 
@@ -64,16 +66,16 @@
 
 ## Log of my Day-to-Day Activities
 
-Track my daily activities [here](100Days_Log.md)
+Track my daily activities [here](docs/100Days_Log.md)
 
 ## How to Contribute
 
 This is an open project and contribution in all forms are welcomed.
-Please follow these [Contribution Guidelines](CONTRIBUTING.md)
+Please follow these [Contribution Guidelines](docs/CONTRIBUTING.md)
 
 ## Code of Conduct
 
-Adhere to the GitHub specified community [code](CODE_OF_CONDUCT.md).
+Adhere to the GitHub specified community [code](docs/CODE_OF_CONDUCT.md).
 
 ## License
 
