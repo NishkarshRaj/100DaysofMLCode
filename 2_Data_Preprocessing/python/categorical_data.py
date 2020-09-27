@@ -26,6 +26,3 @@ X = onehotencoder.fit_transform(X).toarray()
 # Encoding the Dependent Variable
 labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
-
-print(X)
-print(y)
