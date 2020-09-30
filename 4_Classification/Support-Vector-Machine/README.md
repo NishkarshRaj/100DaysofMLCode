@@ -7,7 +7,7 @@ SVMs are particularly well suited for classification of complex small- or medium
 
 SVMs are based on the idea of finding a hyperplane that best divides a dataset into classes (binary classification example in the image below) [3].
 
-![Support Vectors][assets/image1.png]
+![Support Vectors](assets/image1.png)
 
 ### Support Vectors
 Support vectors are the data points nearest to the hyperplane, the points of a data set that, if removed, would alter the position of the dividing hyperplane. Because of this, they can be considered the critical elements of a data set.
@@ -23,19 +23,19 @@ So when new testing data is added, whatever side of the hyperplane it lands will
 
 The distance between the hyperplane and the nearest data point from either set is known as the margin. The goal is to choose a hyperplane with the greatest possible margin between the hyperplane and any point within the training set, giving a greater chance of new data being classified correctly.
 
-![Hyperplane][assets/image2.png]
+![Hyperplane](assets/image2.png)
 
 ### Kernelling
 
 But what happens when there is no clear hyperplane? This is where it can get tricky. Data is rarely ever as clean as our simple example above. A dataset will often look more like the jumbled balls below which represent a linearly non separable dataset.
 
-![Dataset with no clear hyperplane][assets/image3.png]
+![Dataset with no clear hyperplane](assets/image3.png)
 
 In order to classify a dataset like the one above it’s necessary to move away from a 2d view of the data to a 3d view. Imagine that our two sets of colored balls above are sitting on a sheet and this sheet is lifted suddenly, launching the balls into the air. While the balls are up in the air, you use the sheet to separate them. This ‘lifting’ of the balls represents the mapping of data into a higher dimension. 
 
 This is known as kernelling - artificially increasing dimensionality.
 
-![Kernelling][assets/image4.png]
+![Kernelling](assets/image4.png)
 
 Because we are now in three dimensions, our hyperplane can no longer be a line. It must now be a plane as shown in the example above. The idea is that the data will continue to be mapped into higher and higher dimensions until a hyperplane can be formed to segregate it.
 
