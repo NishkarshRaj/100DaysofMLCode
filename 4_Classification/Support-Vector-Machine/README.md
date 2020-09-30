@@ -59,7 +59,7 @@ The disadvantages of SVMs:
 
 
 
-References:
+## References
 
 1. Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow. 2019
 2. [Scikit-Learn: Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
