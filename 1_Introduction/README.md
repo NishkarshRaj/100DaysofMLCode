@@ -6,7 +6,7 @@
 2. Virtual Reality Headsets
 
 3. Speech to text using NLP (Natural Language Processing) <br>
-&ensp; i. Google Assistant, Alexa, Siri, Cortana etc.
+&ensp; i. Google Assistant<br> &ensp;ii. Alexa<br> &ensp;iii. Siri<br> &ensp;iv. Cortana, etc.
 
 4. Online advertisements based on User interests
 
