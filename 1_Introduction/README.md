@@ -1,18 +1,18 @@
 ## Applications of Machine Learning
 
-1. Facial Recognition
-* Example: Facebook automatically tags the people in our group photo
+1. Facial Recognition <br>
+&ensp; i. Example: Facebook automatically tags the people in our group photo
 
 2. Virtual Reality Headsets
 
-3. Speech to text using NLP (Natural Language Processing)
-* Example: Google Assistant, Alexa, Siri, Cortana etc.
+3. Speech to text using NLP (Natural Language Processing) <br>
+&ensp; i. Google Assistant<br> &ensp;ii. Alexa<br> &ensp;iii. Siri<br> &ensp;iv. Cortana, etc.
 
 4. Online advertisements based on User interests
 
 5. Netflix Shows based on popular themes of shows.
 
-**Note: Netflix first show aired 'House of Cards' aired more than 5 years after Netflix came into existence and it was a massive hit because netflix had keenly observer user interest.**
+**Note: Netflix first show aired 'House of Cards' aired more than 5 years after Netflix came into existence and it was a massive hit because netflix had keenly observed user interest.**
 
 ## Machine Learning is the future - Data Explosion
 
@@ -31,9 +31,10 @@ Machine learning is done where designing and programming explicit algorithms can
 
 1. Download Anaconda Python for Python 3.7 from this [link](https://www.anaconda.com/distribution/)
 2. Install Anaconda by executing the downloaded file.
-3. Open **Anaconda Navigator** on the machine
-4. Open Spyder IDE for Python.
-5. Create HelloWorld code and execute it to check successful installation.
+3. Open Anaconda Prompt and type in <code>conda</code>. If you get an error, Anaconda was not installed properly. Otherwise, proceed to step 4.
+4. Open **Anaconda Navigator** on your system.
+5. Open Spyder IDE for Python.
+6. Create HelloWorld code and execute it to check successful installation.
 
 ## Installation of R Studio and R programming Language
 

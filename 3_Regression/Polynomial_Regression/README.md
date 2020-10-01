@@ -6,7 +6,7 @@ In Polynomial Regression, there is only one independent variable but its effect 
 Y = c0 + c1*x1 + c2*x1^2 + c3*x1^3 + ... cN*x1^N
 ```
 
-**Polynomial Regression is linear because the order of an equation depends upon the unknown values and here co-efficients and not the independent value is unknown.**
+**Polynomial Regression is linear because the order of an equation depends upon the unknown values and their co-efficients and not because the independent value is unknown.**
 
 **Note:** Polynomial regression is a type of Multi Linear Regression.
 

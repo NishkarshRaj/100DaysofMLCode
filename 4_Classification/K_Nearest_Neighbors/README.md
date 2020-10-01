@@ -1,14 +1,14 @@
 # K-Nearest Neighbors classification
 
-**Intution:** We have a data set divided into different categories, and when a new tuple is added to it, we have to classify in which category does the new tuple belongs to.
+**Intuition:** We have a data set divided into different categories, and when a new tuple is added to it, we have to classify in which category does the new tuple belongs to.
 
 ## KNN Algorithm
 
 **Step 1:** Decide the value of parameter K. Generally 5 is chosen as the default value.
 
-**Step 2:** Find the K nearest neighbors of the new element based on distance (Eucledian Geometry is preferred but any distance can be chosen like Manhattan)
+**Step 2:** Find the K-nearest neighbors of the new element based on distance (Eucledian Geometry is preferred but any distance can be chosen like Manhattan).
 
-**Step 3:** Count the number selected neighbors in each category
+**Step 3:** Count the number selected neighbors in each category.
 
 **Step 4:** Assign the new tuple to the category having maximum neighbors.
 
