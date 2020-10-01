@@ -14,9 +14,9 @@ Random forest is a bagging technique and not a boosting technique.
 
 ### Data Set
 The given DataSet has 3 columns:
-1. Position,
-2. Level,
-3. Salary.
+1. Position
+2. Level
+3. Salary
 
 The Salary is described in accordance to the Position and the Level.
 For example if an employee is a Manager — he/she falls in Level 4 and should get around $80,000.
@@ -28,10 +28,10 @@ Libraries consists of pre-built functions that take user input and give desired 
 
 Three essential libraries:
 
-1. numpy: For mathematical functions
-2. matplotlib.pyplot: Creating charts for visualization
-3. pandas: to import and manage data sets
-4. sklearn: To split the dataset and later scaling of test and training data.
+1. numpy: For performing mathematical functions.
+2. matplotlib: For creating charts for visualization.
+3. pandas: To import, manage and manipulate data and files.
+4. sklearn: To split the dataset and later perform scaling of test and training data.
 
 ### 2. Importing Libraries in R
 Can be imported via GUI package explorer in RStudio. Generally all basic libraries we need are automatically imported.
