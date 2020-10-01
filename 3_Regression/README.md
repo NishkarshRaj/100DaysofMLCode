@@ -16,7 +16,7 @@
 
 ### R Squared Intution for Simple Linear Regression
 
-Simple Linear Regression Model is based on mathematical model with following condition
+Simple Linear Regression Model is based on mathematical model with following condition:
 ```
 Take line that has minimum value of SUM(Yobserved-Ypredicted)^2
 ```
