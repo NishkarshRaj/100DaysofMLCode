@@ -6,18 +6,18 @@ Compared to Naive Bayes, SVMs are more flexible, as you can modify parameters to
 
 ## 1 initialize and train the SVM in Python
 ```
->>> from sklearn import svm
->>> X = [[0, 0], [1, 1]]
->>> y = [0, 1]
->>> clf = svm.SVC()
->>> clf.fit(X, y)
+from sklearn import svm
+X = [[0, 0], [1, 1]]
+y = [0, 1]
+clf = svm.SVC()
+clf.fit(X, y)
 SVC()
 ```
 
 
 ## 2 Predict Values with the SVM in Python
 ```
->>> clf.predict([[2., 2.]])
+clf.predict([[2., 2.]])
 array([1])
 ```
 
@@ -26,15 +26,15 @@ There are various parameters that can be defined for a better fit of the model. 
 
 Change the Kernel to make the separator boundary linear or curvy. Possible kernels are e.g. linear, rbf, polynomial and more.
 ```
->>> clf = svm.SVC(kernel="linear")
+clf = svm.SVC(kernel="linear")
 ```
 
 Change the C parameter to control the tradeoff between drawing a smooth decision boundary vs. classifying training points correctly. The smaller the C the straigther the boundary becomes (and fewer points are classified correctly).
 ```
->>> clf = svm.SVC(C=1.0)
+clf = svm.SVC(C=1.0)
 ```
 
 Change the gamma parameter to define how far the influence of a single training point reaches. With high gamma values, only the nearest points are considered (and outliers are rather ignored), with low gamma also the far reaching points are considered.
 ```
->>> clf = svm.SVC(gamma=1000)
+clf = svm.SVC(gamma=1000)
 ```
