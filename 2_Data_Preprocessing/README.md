@@ -10,8 +10,8 @@ Link to [data set](https://www.superdatascience.com/pages/machine-learning).
 Generally, .csv files first row consists of variables (attributes).
 There are two types of attributes:
 
-**1. Independent variables**
-**2. Dependent variables**
+&ensp;**1. Independent variables**<br>
+&ensp;**2. Dependent variables**
 
 We are presented with data values for independent variables and using our Machine learning algorithms, we have to predict the dependent variables.
 
@@ -20,15 +20,15 @@ Libraries consists of pre-built functions that take user input and give desired 
 
 ## 1. Importing Libraries in Python
 
-Three essential libraries:
+There are three essential libraries which are used in almost all Machine Learning programs:
 
-**1. numpy:** For mathematical functions
-**2. matplotlib.pyplot:** Creating charts for visualization
-**3. pandas:** to import and manage data sets
+**1. numpy:** For performing mathematical functions.
+**2. matplotlib:** For creating charts for visualization.
+**3. pandas:** To import, manage and manipulate data and files.
 
 **How to import library in python**
 ```python
-import library as alias;
+import library as alias
 ```
 
 ## 2. Importing Libraries in R
@@ -40,6 +40,7 @@ Can be imported via GUI package explorer in RStudio. Generally all basic librari
 ## 1. Importing Data sets in Python using Pandas library
 
 ```python
+import pandas as pd
 dataset = pd.read_csv('filename.csv') #pd is the alias set for pandas libarary
 ```
 
@@ -113,8 +114,8 @@ For example: Variable taking values in form of only Yes/No.
 For sake of ease in programming, we want to use equations in our algorithm in only Numeric form. 
 So, there is a need to encode categorical data into numerical form.
 
-**Problem** There is problem for encoding strings into number for **Independent** variables.
-On encoding, the first value type is assigned 0, next is assigned as 1 and so on but the machine on execution might think that these data sets are related and 1>0 and so on.
+**Problem**: There is problem of encoding strings into number for **Independent** variables.
+On encoding, the first value type is assigned 0, next is assigned as 1 and so on, but the machine on execution might think that these data sets are related and 1>0 and so on.
 
 This problem is solved by using the concept of **Dummy variables** after encoding has been done.
 
