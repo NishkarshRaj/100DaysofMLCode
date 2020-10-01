@@ -50,9 +50,9 @@ The Dummy Variable Trap means that we should never include all the dummy variabl
 
 ## Building Multi Linear Regression Model
 
-**Pre-requisite:** For n independent variables, we have to remove some of the independent variables that are not of high importance or priority because of following reasons:
-**1. Complexity:** Higher the number of independent variables, the poor will be the performance of our machine
-**2. Accuracy:** If number of low priority variables are high, it might decrease the accuracy of the machine.
+**Pre-requisite:** For n independent variables, we have to remove some of the independent variables that are not of high importance or priority because of following reasons:<br>
+&ensp;**1. Complexity:** Higher the number of independent variables, the poor will be the performance of our machine.<br>
+&ensp;**2. Accuracy:** If number of low priority variables are high, it might decrease the accuracy of the machine.
 
 There are five methods of building the model for Multi Linear Regression:
 1. All-in
