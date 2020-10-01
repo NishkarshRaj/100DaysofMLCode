@@ -1,7 +1,7 @@
 ## Dimensionality Reduction
 
-1. [Principal Component Analysis (PCA)](Principal_Component_Analysis)
+1. Principal Component Analysis (PCA)
 
-2. [Linear Discriminant Analysis (LDA)](Linear_Discriminant_Analysis)
+2. Linear Discriminant Analysis (LDA)
 
-3. [Kernel PCA](Kernel_PCA)
+3. Kernel PCA
