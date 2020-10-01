@@ -20,11 +20,11 @@ Libraries consists of pre-built functions that take user input and give desired 
 
 ## 1. Importing Libraries in Python
 
-There are three essential libraries which are used in almost all Machine Learning programs:
+There are three essential libraries which are used in almost all Machine Learning programs:<br>
 
-**1. numpy:** For performing mathematical functions.
-**2. matplotlib:** For creating charts for visualization.
-**3. pandas:** To import, manage and manipulate data and files.
+&ensp;**1. numpy:** For performing mathematical functions.<br>
+&ensp;**2. matplotlib:** For creating charts for visualization.<br>
+&ensp;**3. pandas:** To import, manage and manipulate data and files.<br>
 
 **How to import library in python**
 ```python
