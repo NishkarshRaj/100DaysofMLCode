@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-**1. Data Pre-processing**
+[**1. Data Pre-processing**](2_Data_Preprocessing/README.md)
   * Importing Libraries
   * Importing Data sets
   * Handling the missing data values
@@ -12,7 +12,7 @@
   * Split Data into Train data and Test data
   * Feature Scaling
   
-**2. Regression**
+[**2. Regression**](3_Regression/README.md)
  * Simple Linear Regression
  * Multi Linear Regression
  * Polynomial Regression
@@ -20,7 +20,7 @@
  * Decision Tree Regression
  * Random Forest Regression
  
-**3. Classification**
+[**3. Classification**](4_Classification/README.md)
  * Logistic Regression
  * K Nearest Neighbors Classification
  * Support Vector Machine
@@ -29,36 +29,36 @@
  * Decision Tree Classification
  * Random Forest Classification
 
-**4. Clustering**
+[**4. Clustering**](5_Clustering/README.md)
  * K-Means Clustering
  * Hierarchical Clustering
  
-**5. Association Rule**
+[**5. Association Rule**](6_Association/README.md)
  * Apriori 
  * Eclat
  
-**6. Reinforcement Learning**
+[**6. Reinforcement Learning**](7_Reinforcement_Learning\README.md)
  * Upper Confidence Bounds
  * Thompson Sampling
 
-**7. Natural Language Processing** 
+[**7. Natural Language Processing** ](8_Natural_Language_Processing/README.md)
  * AWS Comprehend
 
-**8. Deep Learning**
+[**8. Deep Learning**](9_Deep_Learning/README.md)
  * Artificial Neural Networks (ANN)
  * Convolutional Neural Networks (CNN)
  
-**9. Dimensionality Reduction**
+[**9. Dimensionality Reduction**](10_Dimensionality_Reduction/README.md)
  * Principal Component Analysis (PCA)
  * Linear Discriminant Analysis (LDA)
  * Kernel PCA
  
-**10. Model Selection**
+[**10. Model Selection**](11_Model_Selection/README.md)
  * Grid Search
  * K-fold Cross Validation
  * XGBoost
  
-**11. Data Visualization**
+[**11. Data Visualization**](12_Data_Visualization/README.md)
  * Matplotlib library in Python
  * Tableau
  * Power BI
