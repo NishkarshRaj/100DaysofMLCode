@@ -35,7 +35,7 @@ import library as alias
 
 Can be imported via GUI package explorer in RStudio. Generally all basic libraries we need are automatically imported.
 
-## Importing Datasets
+## <a name="importing_datasets"></a> Importing Datasets
 
 ## 1. Importing Data sets in Python using Pandas library
 
@@ -68,7 +68,7 @@ variablename = read.csv('filename.csv')
 
 **Note: In R programming, data sets are index from 1 and not 0**
 
-## Handling Veracity in Data Sets
+## <a name="handling_veracity"></a># Handling Veracity in Data Sets
 
 The biggest issues in Data sets for machine learning algorithms is that they may have **incompleteness**, many cells of data might be missing, left out, unknown etc.
 This makes it difficult to program because it decreases the **accuracy** of our algorithms.
@@ -106,7 +106,7 @@ dataset$column = ifelse(is.na(dataset$column),
 * To access all element column wise: PointerToDataSet$column
 * ifelse: Three parameters -> Condition, If True, If false
 
-## Encoding Categorical Data
+## <a name="encoding_cat_data"></a> Encoding Categorical Data
 
 Categorical variables are those which take only particular set of values as input.
 For example: Variable taking values in form of only Yes/No.
@@ -150,7 +150,7 @@ dataset$columnname = factor(dataset$columnname,
                          labels = c(1, 2, 3)) # encoded values can be anything
 ```
 
-## Splitting the Data Set into Train Data and Test Data
+## <a name="split_data"></a> Splitting the Data Set into Train Data and Test Data
 
 **Analogy:** A student learns about some subject and gets a training in it (Train Data) and gives an examination to check his understanding in it (Test data).
 **Machine Learning:** A machine learns about a certain domain and gets trained using the test data and its **accuracy** and **performance** (speed) are tested on a similar yet difference test data set.
@@ -194,7 +194,7 @@ test_set = subset(dataset, split == FALSE)
 
 Assign TRUE values to training_set and test_set, both of which are not keywords and just programming variables.
 
-## Feature Scaling
+## <a name="feature_scaling"></a> Feature Scaling
 
 This pre-processing is done only on **variables storing numeric values**.
 Most machine learning models follow **Eucledian Geometry** where Eucledian distance is calculated by the formulae.

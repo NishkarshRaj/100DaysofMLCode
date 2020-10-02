@@ -6,11 +6,11 @@
 
 [**1. Data Pre-processing**](2_Data_Preprocessing/README.md)
   * [Importing Libraries](2_Data_Preprocessing/README.md#importing_libraries)
-  * Importing Data sets
-  * Handling the missing data values
-  * Encoding categorical data
-  * Split Data into Train data and Test data
-  * Feature Scaling
+  * [Importing Data sets](2_Data_Preprocessing/README.md#importing_datasets)
+  * [Handling the missing data values](2_Data_Preprocessing/README.md#handling_veracity)
+  * [Encoding categorical data](2_Data_Preprocessing/README.md#encoding_cat_data)
+  * [Split Data into Train data and Test data](2_Data_Preprocessing/README.md#split_data)
+  * [Feature Scaling](2_Data_Preprocessing/README.md#feature_scaling)
   
 [**2. Regression**](3_Regression/README.md)
  * Simple Linear Regression
