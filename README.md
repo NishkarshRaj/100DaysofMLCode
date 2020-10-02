@@ -22,9 +22,9 @@
  
 [**3. Classification**](4_Classification/README.md)
  * [Logistic Regression](4_Classification/Logistic_Regression)
- * [K Nearest Neighbors Classification](4_Classification/K_Nearest_Neighbors_Classi4_Classification/fication)
- * [Support Vector Machine](Support_Vector_Machine)
- * [Kernel SVM](4_Classification/Kernel_SVM)
+ * [K Nearest Neighbors Classification](4_Classification/K_Nearest_Neighbors)
+ * [Support Vector Machine](4_Classification/Support_Vector_Machine)
+ * [Kernel SVM](4_Classification/Kernel-SVM)
  * [Naive Bayes](4_Classification/Naive_Bayes)
  * [Decision Tree Classification](4_Classification/Decision_Tree_Classification)
  * [Random Forest Classification](4_Classification/Random_Forest_Classification)
@@ -33,19 +33,19 @@
  * [K-Means Clustering](5_Clustering/K_Means)
  * [Hierarchical Clustering](5_Clustering/Hierarchical_Clustering)
  
-[**5. Association Rule**](6_Association/README.md)
- * [Apriori](6_Association/Apriori) 
- * [Eclat](6_Association/Eclat)
+[**5. Association Rule**](6_Association_Rule/README.md)
+ * [Apriori](6_Association_Rule/Apriori) 
+ * [Eclat](6_Association_Rule/Eclat)
  
 [**6. Reinforcement Learning**](7_Reinforcement_Learning/README.md)
- * [Upper Confidence Bounds](7_Reinforcement_Learning/Upper_confidence_Bounds)
+ * [Upper Confidence Bounds](7_Reinforcement_Learning\Upper_confidence_Bound)
  * [Thompson Sampling](7_Reinforcement_Learning/Thompson_Sampling)
 
-[**7. Natural Language Processing** ](8_Natural_Language_Processing/README.md)
+[**7. Natural Language Processing** ](8_Natural_Language_Processing)
  * [AWS Comprehend](8_Natural_Language_Processing)
 
 [**8. Deep Learning**](9_Deep_Learning/README.md)
- * [Artificial Neural Networks (ANN)](9_Deep_Learning/9_Deep_Learning/Artificial_Neural_Networks)
+ * [Artificial Neural Networks (ANN)](9_Deep_Learning/Artificial_Neural_Networks)
  * [2. Convolutional Neural Networks (CNN)](9_Deep_Learning/Convolutional_Neural_Networks)
 
  
