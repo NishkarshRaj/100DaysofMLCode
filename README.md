@@ -5,7 +5,7 @@
 ## Table of Contents
 
 [**1. Data Pre-processing**](2_Data_Preprocessing/README.md)
-  * Importing Libraries
+  * [Importing Libraries](2_Data_Preprocessing/README.md#importing_libraries)
   * Importing Data sets
   * Handling the missing data values
   * Encoding categorical data
