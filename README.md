@@ -59,7 +59,7 @@
  * [K-fold Cross Validation](11_Model_Selection/Model_Selection)
  * [XGBoost](11_Model_Selection/XGBoost)
  
-[**11. Data Visualization**](12_Data_Visualization/README.md)
+**11. Data Visualization**
  * Matplotlib library in Python
  * Tableau
  * Power BI
