@@ -66,3 +66,7 @@ Validation
 ### References
 
 - [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=ILsA4nyG7I0&ab_channel=BrandonRohrer) - a video by Brandon Rohrer that explains the functioning of a neural network in the simplest and most intuitive way possible.
+- [What is a Neural Network](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown) - a video by 3Blue1Brown that serves as an intro to Neural Networks.
+- [What are Artificial Neural Networks?](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm) - an article by Tutorials Point that talks about Artificial Neural Networks.
+- [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) - The Wikipedia page on Artificial Neural Networks.
+- [Mathematics of Artificial Neural Networks](https://en.wikipedia.org/wiki/Mathematics_of_artificial_neural_networks) - A Wikipedia page explaining the mathematics behind Neural Networks.
