@@ -63,4 +63,6 @@ Validation
 
 
 
-Finally, [**here**](https://www.youtube.com/watch?v=ILsA4nyG7I0&ab_channel=BrandonRohrer) is a video by Brandon Rohrer that explains the functioning of a neural network in the simplest and most intuitive way possible.
+### References
+
+[Deep Learning and Neural Networks](https://www.youtube.com/watch?v=ILsA4nyG7I0&ab_channel=BrandonRohrer) - a video by Brandon Rohrer that explains the functioning of a neural network in the simplest and most intuitive way possible.
