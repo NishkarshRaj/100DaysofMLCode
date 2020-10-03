@@ -2,7 +2,6 @@
 """
 
 # Importing the libraries
-
 import pandas as pd
 from sklearn.impute import SimpleImputer
 
@@ -21,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
