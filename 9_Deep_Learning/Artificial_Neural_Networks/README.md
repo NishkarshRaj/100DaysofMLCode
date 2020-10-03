@@ -13,7 +13,7 @@ The weight of an edge determines the strength of connection between two neurons.
 
 ANNs are composed of artificial neurons that model how neurons in our brains function. Each individual neuron takes in some inputs and produces a single output which can then be passed onto different neurons. Any neuron can have multiple inputs but it will only produce one output value (which can then be fed into one or multiple other neurons).
 
-![Neuron](/img/neuron.jpg)
+![Neuron](img/neuron.jpg)
 
 Just like neurons in our brain, the raw output of a neuron is passed through an activation function which decides whether the raw output of the neuron was really high enough or not. Some examples of activation functions are ReLU and Sigmoid functions. They help bound the output values of neurons too to help with the computation.
 
@@ -21,7 +21,7 @@ Just like neurons in our brain, the raw output of a neuron is passed through an 
 
 The network consists of many connected neurons. Vertically stacking the neurons forms what are called layers. Here is an illustration of different layers of an example ANN.  
 
-![ANN](/img/ANN_structure.jpg)
+![ANN](img/ANN_structure.jpg)
 
 Neurons in different layers are connected via connections. The strength of these connections are represented by their weights. Weights generally vary from -1 to +1 for computational simplicity. In the above illustration, the thickness of connection is directly proportional to their weights and positive connections are shown in blue colour while negative connections are shown in black colour.
 
@@ -41,7 +41,7 @@ To know how well our ANN is predicting, we devise something called the cost func
 The backpropagation is just the reverse process of the propagation step.  
 The backpropagation algorithm is how we train or better our ANN. Using values from the cost function, we get a gradient (or direction) in which we are off from the real predicitons. Working out backwards from the predictions to the weights of the different neurons, we slowly adjust the weights so that they perform a little better with each iteration. The algorithm can be simply visualized in the following flowchart.
 
-![Flowchart Backprop](/img/backprop.jpg)
+![Flowchart Backprop](img/backprop.jpg)
 
 ## The Algorithm after Creating a Neural Network
 
