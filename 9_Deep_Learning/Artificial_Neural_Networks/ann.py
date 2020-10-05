@@ -1,6 +1,7 @@
 """ Artificial Neural Network
 """
 
+
 # Importing the libraries
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
@@ -9,7 +10,6 @@ from sklearn.preprocessing import StandardScaler
 from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.metrics import confusion_matrix
-
 
 def main():
     # Part 1 - Data Preprocessing
