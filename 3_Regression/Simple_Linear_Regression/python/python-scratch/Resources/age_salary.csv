@@ -1,0 +1,14 @@
+Index,Nation,Purchase_Item,Age,Salary
+0,India,No,25,35000
+1,Russia,Yes,27,40000
+2,Germany,No,50,54000
+3,Russia,No,35,
+4,Germany,Yes,40,60000
+5,India,Yes,35,58000
+6,Germany,Yes,,52000
+7,Russia,No,48,79000
+8,Germany,Yes,50,83000
+9,India,No,37,
+10,Russia,Yes,21,24000
+11,Germany,No,,60000
+12,India,No,63,70000
