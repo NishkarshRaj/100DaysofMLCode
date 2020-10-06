@@ -1,3 +1,0 @@
-If notebook is not opening here, go to the link: https://nbviewer.jupyter.org/github/sanchitvj/Image-Dehazing-using-GMAN-net/blob/master/Notebook/gman-net-for-image-dehazing.ipynb
-
-Original repository with details here: https://github.com/sanchitvj/Image-Dehazing-using-GMAN-net
