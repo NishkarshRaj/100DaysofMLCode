@@ -18,6 +18,9 @@ Random Forest Classification works with the help of following steps:
 - Perform vote for the predictions
 - Select the most voted prediction as the final result 
 
+
+![Random_Forest](assets/Random_Forest.webp)
+
 **Example:**
 In the given Dataset, the CSV contains certain columns as features which are *UserID*,*Gender*, *Age*, *Estimated Salary* and the outcome is categorical column, *Purchased*.
 The dataset is split into Train and Test sets in the ratio of 0.75:0.25 using the CrossValidation module and normalized accordingly using ScikitLearn StandardScalar module.
