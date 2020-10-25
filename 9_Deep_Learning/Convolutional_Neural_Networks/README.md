@@ -29,6 +29,7 @@ array, x pixels wide and y pixels high, with each entry having a value that indi
 whether it’s black or white or somewhere in between (assuming an 8-bit image, each value can vary from 0 to 255). We use a filter, or convolutional kernel, which is
 another matrix, most likely smaller than the image, which we will drag across our image. To produce our output, we take the smaller filter and pass it over the original input,
 like a magnifying glass over a piece of paper. All we do is multiply each element in the matrix by its corresponding member in the other matrix and sum the result.
+
 ![convolution](https://miro.medium.com/max/669/1*Zx-ZMLKab7VOCQTxdZ1OAw.gif)
 
 We repeat this process for the entire image, giving us the final result, also known as feature/activation map. Our goal is to learn the best possible convolutional kernel for an image.
@@ -44,6 +45,11 @@ producing an output the same size as the input.
 - **Stride**: Indicates how many steps across the input we move when we adjust the filter to a new position. The above example has a stride of 1. If it had a stride of 2,
 the feature map would have half its size.
 
+## Convolutions on RGB Images
+Whereas in the 1 channel case, where the term filter and kernel are interchangeable, in the general case, they’re actually pretty different. Each filter actually happens to be a collection of kernels, with there being one kernel for every single input channel to the layer, and each kernel being unique.
+Each of the kernels of the filter "slides" over their respective input channels, producing a processed version of each. Some kernels may have stronger weights than others, to give more emphasis to certain input channels than others (e.g. a filter may have a red kernel channel with stronger weights than others, and hence, respond more to differences in the red channel features than the others). Each of the per-channel processed versions are then summed together to form one channel. 
+The kernels of a filter each produce one version of each channel, and the filter as a whole produces one overall output channel. Finally, then there's the optional bias term. The way the bias term works here is that each output filter has one bias term. The bias gets added to the output channel so far to produce the final output channel.
+
 ## Pooling Layer
 A pooling function replaces the output of the net at a certain location with a summary statistic of the nearby outputs. Pooling layers commonly reduce the input's height
 and width by half. Pooling layers aim to reduce the number of parameters in the network by keeping the most relevant features.
@@ -52,8 +58,10 @@ maximum element from a (2x2) subsection of the feature map. An alternative to ma
 This means that if the input image were 32 pixels wide by 32 pixels tall, the output image would be smaller in width and height (e.g., 16 pixels wide by 16 pixels tall).
 
 ## Algorithm for Convolution
+![conv_algorithm](./conv.JPG)
 
-
+Where does this end? After the input image has been reduced to a small set of features, we expect to be able to output some probabilities from the network that we can
+feed to our negative log likelihood. For this reason, the feature map is flattened to a 1D vector and passed to a fully-connected layer that outputs probabilities.
 
 ## Advantages of CNNs
 There are certain advantages offered by convolutional layers when working with image data:
