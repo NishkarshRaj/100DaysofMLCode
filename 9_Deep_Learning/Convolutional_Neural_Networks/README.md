@@ -58,7 +58,7 @@ maximum element from a (2x2) subsection of the feature map. An alternative to ma
 This means that if the input image were 32 pixels wide by 32 pixels tall, the output image would be smaller in width and height (e.g., 16 pixels wide by 16 pixels tall).
 
 ## Algorithm for Convolution
-![conv_algorithm](./conv.JPG)
+![conv_algorithm](imgs/conv.JPG)
 
 Where does this end? After the input image has been reduced to a small set of features, we expect to be able to output some probabilities from the network that we can
 feed to our negative log likelihood. For this reason, the feature map is flattened to a 1D vector and passed to a fully-connected layer that outputs probabilities.
