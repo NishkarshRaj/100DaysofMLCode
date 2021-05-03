@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["NishkarshRaj", "neha-shah99", "manavkapadnis", "UdayKiranPadhy", "codingcosmonaut", "ekdnam", "anushka0301", "JeremiahKamama", "aenyne", "pragyakapoor"]:end -->
 ![Cover Image](docs/cover.png)
 
 <h1 align="center">#100DaysofMLCode</h1>
@@ -81,3 +82,31 @@ Adhere to the GitHub specified community [code](docs/CODE_OF_CONDUCT.md).
 ## License
 
 Check the official MIT License [here](LICENSE).
+
+<!-- prettier-ignore-start -->
+<!-- DO NOT REMOVE - contributor_list:start -->
+## 👥 Contributors
+
+
+- **[@NishkarshRaj](https://github.com/NishkarshRaj)**
+
+- **[@neha-shah99](https://github.com/neha-shah99)**
+
+- **[@manavkapadnis](https://github.com/manavkapadnis)**
+
+- **[@UdayKiranPadhy](https://github.com/UdayKiranPadhy)**
+
+- **[@codingcosmonaut](https://github.com/codingcosmonaut)**
+
+- **[@ekdnam](https://github.com/ekdnam)**
+
+- **[@anushka0301](https://github.com/anushka0301)**
+
+- **[@JeremiahKamama](https://github.com/JeremiahKamama)**
+
+- **[@aenyne](https://github.com/aenyne)**
+
+- **[@pragyakapoor](https://github.com/pragyakapoor)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
+<!-- prettier-ignore-end -->
