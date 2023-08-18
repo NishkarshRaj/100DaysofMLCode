@@ -1,0 +1,27 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 100daysofmlcode
+  description: 
+  tags:
+    - python
+    - 100daysofcode
+  links:
+    - title: Backstage
+      url: https://backstage.io
+      icon: backstage
+    - title: Source
+      url: https://github.com/NishkarshRaj/100DaysofMLCode
+      icon: github
+  annotations:
+    github.com/project-slug: NishkarshRaj/100DaysofMLCode
+    backstage.io/techdocs-ref: dir:.
+    backstage.io/adr-location: https://github.com/adr/madr/tree/develop/docs/decisions
+    architecture/image-url: https://github.com/NishkarshRaj/100DaysofMLCode/blob/master/docs/cover.png
+    architecture/web-url: https://github.com/NishkarshRaj/100DaysofMLCode
+spec:
+  type: microservice
+  lifecycle: production
+  owner: user:NishkarshRaj
+  system: sample
