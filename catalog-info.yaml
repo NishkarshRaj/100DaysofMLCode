@@ -18,7 +18,7 @@ metadata:
     github.com/project-slug: NishkarshRaj/100DaysofMLCode
     backstage.io/techdocs-ref: dir:.
     backstage.io/adr-location: https://github.com/adr/madr/tree/develop/docs/decisions
-    architecture/image-url: https://github.com/NishkarshRaj/100DaysofMLCode/blob/master/docs/cover.png
+    architecture/image-url: https://raw.githubusercontent.com/NishkarshRaj/100DaysofMLCode/master/docs/cover.png
     architecture/web-url: https://github.com/NishkarshRaj/100DaysofMLCode
 spec:
   type: microservice
