@@ -3,7 +3,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: 100daysofmlcode
-  description: 
+  description: "Learning AI and ML by taking up the #100DaysofMLCode challenge"
   tags:
     - python
     - 100daysofcode
