@@ -24,7 +24,7 @@
 [**3. Classification**](4_Classification/README.md)
  * [Logistic Regression](4_Classification/Logistic_Regression)
  * [K Nearest Neighbors Classification](4_Classification/K_Nearest_Neighbors)
- * [Support Vector Machine](4_Classification/Support_Vector_Machine)
+ * [Support Vector Machine](4_Classification/Support-Vector-Machine)
  * [Kernel SVM](4_Classification/Kernel-SVM)
  * [Naive Bayes](4_Classification/Naive_Bayes)
  * [Decision Tree Classification](4_Classification/Decision_Tree_Classification)
