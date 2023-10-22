@@ -12,6 +12,8 @@
 
 [6. Random Forest Regression](Random_Forest_Regression)
 
+[7. Ridge Regression](Ridge_Regression)
+
 ## Comparing Regression Models and their performance
 
 ### R Squared Intution for Simple Linear Regression

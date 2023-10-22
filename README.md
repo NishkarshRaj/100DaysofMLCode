@@ -20,6 +20,7 @@
  * [Support Vector Regression](3_Regression/Support_Vector_Regression)
  * [Decision Tree Regression](3_Regression/Decision_Tree_Regression)
  * [Random Forest Regression](3_Regression/Random_Forest_Regression)
+ * [Ridge Regression](3_Regression/Ridge_Regression)
  
 [**3. Classification**](4_Classification/README.md)
  * [Logistic Regression](4_Classification/Logistic_Regression)
