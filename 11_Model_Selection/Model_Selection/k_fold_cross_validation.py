@@ -76,6 +76,6 @@ def main():
     plt.legend()
     plt.show()
 
-
+#Call the main function
 if __name__ == '__main__':
     main()
