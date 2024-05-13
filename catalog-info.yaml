@@ -8,20 +8,66 @@ metadata:
     - python
     - 100daysofcode
   links:
-    - title: Backstage
+    - title: Backstage Developer Instance
       url: https://backstage.io
       icon: backstage
-    - title: Source
+    - title: Backstage NonProd Instance
+      url: https://backstage.io
+      icon: backstage
+    - title: Backstage Production Instance
+      url: https://backstage.io
+      icon: backstage
+    - title: GitHub Source
       url: https://github.com/NishkarshRaj/100DaysofMLCode
       icon: github
+    - title: "#rearportal-community"
+      url: https://statusneo.slack.com/messages/cpe-portal-community/
+      icon: slack
+    - title: Confluence
+      url: https://conf.statusneo.com/display/PEng/Trading+Requirements
+      icon: confluence
+    - title: Project Board
+      url: https://jira.statusneo.com/secure/RapidBoard.jspa?rapidView=1301
+      icon: jira
+    - title: Splunk Home
+      url: https://clp.prod.statusneo.plc
+      icon: splunk
+    - title: Trading Archi Diagram
+      url: https://archi-ui.statusneo.com
+      icon: archimate
+    - title: Corporate Okta
+      url: https://statusneo.okta.com/
+      icon: okta
+    - title: Production Stats
+      url: https://one.newrelic.com/dashboards/detail/MjY2NjU3MHxWSVp8REFTSEJPQVJEfGRhOjU5NzgzMw?account=2666570&state=b9fd320a-12fe-4fd4-c5d1-a83a587d743d
+      icon: new-relic
+    - title: Homepage Wireframes
+      url: https://app.mural.co/t/statusneo/m/statusneo/1648003303261/3503684af7c7ed46d4354e76e32c31e9dc640783?sender=ue38b9fb8af67960f454e5726
+      icon: mural
   annotations:
     github.com/project-slug: NishkarshRaj/100DaysofMLCode
     backstage.io/techdocs-ref: dir:.
+    newrelic.com/dashboard-guid: MjY2NjU3MnxWSVp8REFTSEJPQVJEfGRhOjQ0OTc1MA
     backstage.io/adr-location: https://github.com/adr/madr/tree/develop/docs/decisions
     architecture/image-url: https://raw.githubusercontent.com/NishkarshRaj/100DaysofMLCode/master/docs/cover.png
     architecture/web-url: https://github.com/NishkarshRaj/100DaysofMLCode
 spec:
-  type: microservice
+  type: service
   lifecycle: production
   owner: user:NishkarshRaj
   system: sample
+  providesApis:
+    - account-service-example
+    - email-service-example
+    - petstore-example
+  consumesApis:
+    - greeting-example
+    - graphql-example
+  dependsOn:
+    - Component:Product-EKS
+    - Component:portal-ecr-repository
+    - Component:organization-catalogs
+    - Resource:prod-rds02
+    - Resource:backstage-prod-techdocs
+    - Resource:eks01
+    - Resource:portal-ecr-repository
