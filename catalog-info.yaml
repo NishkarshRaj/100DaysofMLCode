@@ -46,7 +46,6 @@ metadata:
       icon: mural
   annotations:
     github.com/project-slug: NishkarshRaj/100DaysofMLCode
-    backstage.io/techdocs-ref: dir:.
     newrelic.com/dashboard-guid: MjY2NjU3MnxWSVp8REFTSEJPQVJEfGRhOjQ0OTc1MA
     backstage.io/adr-location: https://github.com/adr/madr/tree/develop/docs/decisions
     architecture/image-url: https://raw.githubusercontent.com/NishkarshRaj/100DaysofMLCode/master/docs/cover.png
