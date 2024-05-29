@@ -42,3 +42,11 @@ Machine learning is done where designing and programming explicit algorithms can
 2. Download R Studio IDE from this [link](https://rstudio.com/products/rstudio/download/#download).
 * RStudio automatically configures R programming language already installed on the machine.
 3. Open RStudio and enter Hello World code to check successful installation.
+
+## Opening a Jupyter Notebook using Anaconda Prompt
+1. Open *Anaconda Prompt* on your system.
+2. The current directory in which your project will move will be 'C:\Users\username'. To change the directory or working folder, ender the      command: cd Folder_Location. Say E:\Machine Learning\100DaysofMLCode is the folder, You want to work on. The command for the same will be 
+   cd E:\Machine Learning\100DaysofMLCode. (cd means change directory)
+3. When you'll execute the command, the directory will be changed. If not, enter the command: Local_Disk: (it will be E: in the example          case).
+4. Your working directory will be changed by now, enter the command 'Jupyter Notebook'. You will now be directed to your Web Browser with      your Jupyter Notebook opened.
+5. Click on the New option in the Upper Right Corner and you can write your code. Begin with print('Hello! This is my First Jupyter            Notebook. Thanks to 100DaysofMLCode.')
