@@ -194,6 +194,15 @@ test_set = subset(dataset, split == FALSE)
 
 Assign TRUE values to training_set and test_set, both of which are not keywords and just programming variables.
 
+## Validation set
+If there is a train and a test set, why we sometimes see also a validation set? 
+
+<br>
+In realistic scenarios a model is rarely built just by training its weight parameters once. Instead, many versions of a model are explored through various modeling choices regarding network architecture, learning rates, data augmentation strategies and other hyperparamether adjustments. In this process, also the test set is used to improve the model (by comparing accuracy values). So subsequent versions of the model are, indirectly, shaped by the modeler having seen the test data, and hence may be biased.
+
+<br>
+This is why sometimes another level of even more highly reserved data, the validation set, is introduced. It holds back the data from the model and the modeler. 
+
 ## <a name="feature_scaling"></a> Feature Scaling
 
 This pre-processing is done only on **variables storing numeric values**.
@@ -239,5 +248,6 @@ Following are mandatory steps for Data Pre-processing
 
 1. Importing Libraries
 2. Importing Data Set
-3. Splitting Data sets into Train and Test Data
+3. Splitting Data sets into Train and Test Data (and sometimes also Validation Data)
+
 
