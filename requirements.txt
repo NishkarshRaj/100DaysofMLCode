@@ -1,5 +1,5 @@
 apyori==1.1.2
-Keras==2.4.3
+Keras==3.9.0
 Keras-Preprocessing==1.1.2
 nltk==3.5
 numpy==1.18.5
